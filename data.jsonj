@@ -1,0 +1,7627 @@
+[
+    {
+        "country": "Serbia",
+        "provider": "Vectone-Mobile",
+        "prefix": [
+            "678"
+        ],
+        "country_code": "381"
+    },
+    {
+        "country": "afghanistan",
+        "provider": "afghan-wireless",
+        "prefix": [
+            "70",
+            "71"
+        ],
+        "country_code": "93"
+    },
+    {
+        "country": "afghanistan",
+        "provider": "etisalat",
+        "prefix": [
+            "78",
+            "73"
+        ],
+        "country_code": "93"
+    },
+    {
+        "country": "afghanistan",
+        "provider": "mtn",
+        "prefix": [
+            "77",
+            "76"
+        ],
+        "country_code": "93"
+    },
+    {
+        "country": "afghanistan",
+        "provider": "roshan",
+        "prefix": [
+            "79",
+            "72"
+        ],
+        "country_code": "93"
+    },
+    {
+        "country": "afghanistan",
+        "provider": "salaam",
+        "prefix": [
+            "74"
+        ],
+        "country_code": "93"
+    },
+    {
+        "country": "afghanistan",
+        "provider": "wasel-telecom",
+        "prefix": [
+            "7x"
+        ],
+        "country_code": "93"
+    },
+    {
+        "country": "albania",
+        "provider": "albtelecom",
+        "prefix": [
+            "67"
+        ],
+        "country_code": "355"
+    },
+    {
+        "country": "albania",
+        "provider": "telecom",
+        "prefix": [
+            "68"
+        ],
+        "country_code": "355"
+    },
+    {
+        "country": "albania",
+        "provider": "vodafone",
+        "prefix": [
+            "69"
+        ],
+        "country_code": "355"
+    },
+    {
+        "country": "algeria",
+        "provider": "djezzy",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "213"
+    },
+    {
+        "country": "algeria",
+        "provider": "mobilis",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "213"
+    },
+    {
+        "country": "algeria",
+        "provider": "ooredoo",
+        "prefix": [
+            "5"
+        ],
+        "country_code": "213"
+    },
+    {
+        "country": "american-samoa",
+        "provider": "bluesky",
+        "prefix": [
+            "684"
+        ],
+        "country_code": "684"
+    },
+    {
+        "country": "andorra",
+        "provider": "andorra-telecom",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "376"
+    },
+    {
+        "country": "angola",
+        "provider": "movicel",
+        "prefix": [
+            "91"
+        ],
+        "country_code": "244"
+    },
+    {
+        "country": "angola",
+        "provider": "unitel",
+        "prefix": [
+            "92",
+            "93"
+        ],
+        "country_code": "244"
+    },
+    {
+        "country": "anguilla",
+        "provider": "digicel",
+        "prefix": [
+            "264"
+        ],
+        "country_code": "1264"
+    },
+    {
+        "country": "anguilla",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "264"
+        ],
+        "country_code": "1264"
+    },
+    {
+        "country": "antigua-and-barbuda",
+        "provider": "apua",
+        "prefix": [
+            "268"
+        ],
+        "country_code": "1268"
+    },
+    {
+        "country": "antigua-and-barbuda",
+        "provider": "digicel",
+        "prefix": [
+            "268"
+        ],
+        "country_code": "1268"
+    },
+    {
+        "country": "antigua-and-barbuda",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "268"
+        ],
+        "country_code": "1268"
+    },
+    {
+        "country": "argentina",
+        "provider": "claro",
+        "prefix": [
+            "15",
+            "9"
+        ],
+        "country_code": "54"
+    },
+    {
+        "country": "argentina",
+        "provider": "movistar",
+        "prefix": [
+            "15",
+            "9"
+        ],
+        "country_code": "54"
+    },
+    {
+        "country": "argentina",
+        "provider": "nextel",
+        "prefix": [
+            "15",
+            "9"
+        ],
+        "country_code": "54"
+    },
+    {
+        "country": "argentina",
+        "provider": "personal",
+        "prefix": [
+            "15",
+            "9"
+        ],
+        "country_code": "54"
+    },
+    {
+        "country": "armenia",
+        "provider": "beeline",
+        "prefix": [
+            "91",
+            "99",
+            "43"
+        ],
+        "country_code": "374"
+    },
+    {
+        "country": "armenia",
+        "provider": "karabakh-telecom",
+        "prefix": [
+            "97"
+        ],
+        "country_code": "374"
+    },
+    {
+        "country": "armenia",
+        "provider": "ucom",
+        "prefix": [
+            "55",
+            "95",
+            "41",
+            "44"
+        ],
+        "country_code": "374"
+    },
+    {
+        "country": "armenia",
+        "provider": "vivacell-mts",
+        "prefix": [
+            "77",
+            "93",
+            "94",
+            "98"
+        ],
+        "country_code": "374"
+    },
+    {
+        "country": "australia",
+        "provider": "3",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "aapt",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "crazy-johns",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "department-of-defence",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "norfolk-telecom",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "one-tel",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "optus",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "telstra",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "virgin-mobile",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "australia",
+        "provider": "vodafone",
+        "prefix": [
+            "4"
+        ],
+        "country_code": "61"
+    },
+    {
+        "country": "austria",
+        "provider": "3",
+        "prefix": [
+            "660"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "austria",
+        "provider": "a1",
+        "prefix": [
+            "664"
+        ],
+        "country_code": null
+    },
+    {
+        "country": "austria",
+        "provider": "bob",
+        "prefix": [
+            "680"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "austria",
+        "provider": "lycamobile",
+        "prefix": [
+            "664"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "austria",
+        "provider": "orange",
+        "prefix": [
+            "699"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "austria",
+        "provider": "t-mobile",
+        "prefix": [
+            "676"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "austria",
+        "provider": "telering",
+        "prefix": [
+            "650"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "austria",
+        "provider": "vectone-mobile",
+        "prefix": [
+            "688"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "austria",
+        "provider": "yesss",
+        "prefix": [
+            "681"
+        ],
+        "country_code": "43"
+    },
+    {
+        "country": "azerbaijan",
+        "provider": "azercell",
+        "prefix": [
+            "50",
+            "51"
+        ],
+        "country_code": "994"
+    },
+    {
+        "country": "azerbaijan",
+        "provider": "bakcell",
+        "prefix": [
+            "55"
+        ],
+        "country_code": "994"
+    },
+    {
+        "country": "azerbaijan",
+        "provider": "nar-mobile",
+        "prefix": [
+            "70"
+        ],
+        "country_code": "994"
+    },
+    {
+        "country": "azerbaijan",
+        "provider": "naxtel",
+        "prefix": [
+            "36"
+        ],
+        "country_code": "994"
+    },
+    {
+        "country": "bahamas",
+        "provider": "aliv",
+        "prefix": [
+            "35x",
+            "45x",
+            "55x"
+        ],
+        "country_code": "1242"
+    },
+    {
+        "country": "bahamas",
+        "provider": "btc",
+        "prefix": [
+            "35x",
+            "45x",
+            "55x"
+        ],
+        "country_code": "1242"
+    },
+    {
+        "country": "bahrain",
+        "provider": "batelco",
+        "prefix": [
+            "322",
+            "383",
+            "384",
+            "388",
+            "39"
+        ],
+        "country_code": "973"
+    },
+    {
+        "country": "bahrain",
+        "provider": "viva",
+        "prefix": [
+            "33",
+            "340",
+            "341",
+            "343",
+            "344",
+            "345",
+            "353",
+            "355"
+        ],
+        "country_code": "973"
+    },
+    {
+        "country": "bahrain",
+        "provider": "zain",
+        "prefix": [
+            "36",
+            "377",
+            "663",
+            "666",
+            "669"
+        ],
+        "country_code": "973"
+    },
+    {
+        "country": "bangladesh",
+        "provider": "airtel",
+        "prefix": [
+            "16"
+        ],
+        "country_code": "880"
+    },
+    {
+        "country": "bangladesh",
+        "provider": "banglalink",
+        "prefix": [
+            "19"
+        ],
+        "country_code": "880"
+    },
+    {
+        "country": "bangladesh",
+        "provider": "grameenphone",
+        "prefix": [
+            "17"
+        ],
+        "country_code": "880"
+    },
+    {
+        "country": "bangladesh",
+        "provider": "robi",
+        "prefix": [
+            "18"
+        ],
+        "country_code": "880"
+    },
+    {
+        "country": "bangladesh",
+        "provider": "teletalk",
+        "prefix": [
+            "15"
+        ],
+        "country_code": "880"
+    },
+    {
+        "country": "barbados",
+        "provider": "digicel",
+        "prefix": [
+            "246"
+        ],
+        "country_code": "1246"
+    },
+    {
+        "country": "barbados",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "246"
+        ],
+        "country_code": "1246"
+    },
+    {
+        "country": "barbados",
+        "provider": "ozone-wireless",
+        "prefix": [
+            "246"
+        ],
+        "country_code": "1246"
+    },
+    {
+        "country": "belarus",
+        "provider": "a1",
+        "prefix": [
+            "29 1",
+            "29 3",
+            "29 6",
+            "29 9",
+            "44"
+        ],
+        "country_code": "375"
+    },
+    {
+        "country": "belarus",
+        "provider": "becloud",
+        "prefix": [
+            "17"
+        ],
+        "country_code": "375"
+    },
+    {
+        "country": "belarus",
+        "provider": "life",
+        "prefix": [
+            "25"
+        ],
+        "country_code": "375"
+    },
+    {
+        "country": "belarus",
+        "provider": "mts",
+        "prefix": [
+            "29 2",
+            "29 5",
+            "29 7",
+            "29 8",
+            "33"
+        ],
+        "country_code": "375"
+    },
+    {
+        "country": "belgium",
+        "provider": "base",
+        "prefix": [
+            "48x"
+        ],
+        "country_code": "32"
+    },
+    {
+        "country": "belgium",
+        "provider": "lycamobile",
+        "prefix": [
+            "48x"
+        ],
+        "country_code": "32"
+    },
+    {
+        "country": "belgium",
+        "provider": "mobile-vikings",
+        "prefix": [
+            "48x"
+        ],
+        "country_code": "32"
+    },
+    {
+        "country": "belgium",
+        "provider": "orange",
+        "prefix": [
+            "49x"
+        ],
+        "country_code": "32"
+    },
+    {
+        "country": "belgium",
+        "provider": "proximus",
+        "prefix": [
+            "47x"
+        ],
+        "country_code": "32"
+    },
+    {
+        "country": "belgium",
+        "provider": "telenet",
+        "prefix": [
+            "48x"
+        ],
+        "country_code": "32"
+    },
+    {
+        "country": "belize",
+        "provider": "digicell",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "501"
+    },
+    {
+        "country": "belize",
+        "provider": "smart",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "501"
+    },
+    {
+        "country": "benin",
+        "provider": "benin-telecoms",
+        "prefix": [
+            "0x",
+            "1129",
+            "40",
+            "42",
+            "44",
+            "60",
+            "64",
+            "68",
+            "69",
+            "87",
+            "89",
+            "90",
+            "91",
+            "92",
+            "93",
+            "95",
+            "96",
+            "87",
+            "98"
+        ],
+        "country_code": "229"
+    },
+    {
+        "country": "benin",
+        "provider": "glo",
+        "prefix": [
+            "0x",
+            "1129",
+            "40",
+            "42",
+            "44",
+            "60",
+            "64",
+            "68",
+            "69",
+            "87",
+            "89",
+            "90",
+            "91",
+            "92",
+            "93",
+            "95",
+            "96",
+            "87",
+            "98"
+        ],
+        "country_code": "229"
+    },
+    {
+        "country": "benin",
+        "provider": "moov",
+        "prefix": [
+            "0x",
+            "1129",
+            "40",
+            "42",
+            "44",
+            "60",
+            "64",
+            "68",
+            "69",
+            "87",
+            "89",
+            "90",
+            "91",
+            "92",
+            "93",
+            "95",
+            "96",
+            "87",
+            "98"
+        ],
+        "country_code": "229"
+    },
+    {
+        "country": "benin",
+        "provider": "mtn",
+        "prefix": [
+            "0x",
+            "1129",
+            "40",
+            "42",
+            "44",
+            "60",
+            "64",
+            "68",
+            "69",
+            "87",
+            "89",
+            "90",
+            "91",
+            "92",
+            "93",
+            "95",
+            "96",
+            "87",
+            "98"
+        ],
+        "country_code": "229"
+    },
+    {
+        "country": "bermudas",
+        "provider": "cellone",
+        "prefix": [
+            "441"
+        ],
+        "country_code": "1441"
+    },
+    {
+        "country": "bermudas",
+        "provider": "digicel",
+        "prefix": [
+            "441"
+        ],
+        "country_code": "1441"
+    },
+    {
+        "country": "bhutan",
+        "provider": "bhutan-telecom",
+        "prefix": [
+            "17"
+        ],
+        "country_code": "975"
+    },
+    {
+        "country": "bhutan",
+        "provider": "tashi-cell",
+        "prefix": [
+            "17"
+        ],
+        "country_code": "975"
+    },
+    {
+        "country": "bolivia",
+        "provider": "entel",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "591"
+    },
+    {
+        "country": "bolivia",
+        "provider": "tigo",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "591"
+    },
+    {
+        "country": "bolivia",
+        "provider": "viva",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "591"
+    },
+    {
+        "country": "bosnia-and-herzegovina",
+        "provider": "bh-mobile",
+        "prefix": [
+            "60",
+            "61",
+            "62"
+        ],
+        "country_code": "387"
+    },
+    {
+        "country": "bosnia-and-herzegovina",
+        "provider": "ht-eronet",
+        "prefix": [
+            "63"
+        ],
+        "country_code": "387"
+    },
+    {
+        "country": "bosnia-and-herzegovina",
+        "provider": "mtel",
+        "prefix": [
+            "65",
+            "66"
+        ],
+        "country_code": "387"
+    },
+    {
+        "country": "botswana",
+        "provider": "btc-mobile",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "267"
+    },
+    {
+        "country": "botswana",
+        "provider": "mascom",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "267"
+    },
+    {
+        "country": "botswana",
+        "provider": "orange",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "267"
+    },
+    {
+        "country": "brazil",
+        "provider": "algar-telecom",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "amazonia-celular",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "brasil-telecom",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "claro",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "correios",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "datora",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "nextel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "oi",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "sercomtel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "tim",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "brazil",
+        "provider": "vivo",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "55"
+    },
+    {
+        "country": "british-virgin-islands",
+        "provider": "cct",
+        "prefix": [
+            "284"
+        ],
+        "country_code": "284"
+    },
+    {
+        "country": "british-virgin-islands",
+        "provider": "digicel",
+        "prefix": [
+            "284"
+        ],
+        "country_code": "284"
+    },
+    {
+        "country": "british-virgin-islands",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "284"
+        ],
+        "country_code": "284"
+    },
+    {
+        "country": "brunei",
+        "provider": "dst",
+        "prefix": [
+            "8x"
+        ],
+        "country_code": "673"
+    },
+    {
+        "country": "brunei",
+        "provider": "progresif",
+        "prefix": [
+            "8x"
+        ],
+        "country_code": "673"
+    },
+    {
+        "country": "brunei",
+        "provider": "telekom",
+        "prefix": [
+            "8x"
+        ],
+        "country_code": "673"
+    },
+    {
+        "country": "bulgaria",
+        "provider": "a1",
+        "prefix": [
+            "88"
+        ],
+        "country_code": "359"
+    },
+    {
+        "country": "bulgaria",
+        "provider": "bulsatcom",
+        "prefix": [
+            "988"
+        ],
+        "country_code": "359"
+    },
+    {
+        "country": "bulgaria",
+        "provider": "max-telecom",
+        "prefix": [
+            "988"
+        ],
+        "country_code": "359"
+    },
+    {
+        "country": "bulgaria",
+        "provider": "telenor",
+        "prefix": [
+            "89"
+        ],
+        "country_code": "359"
+    },
+    {
+        "country": "bulgaria",
+        "provider": "vivacom",
+        "prefix": [
+            "87"
+        ],
+        "country_code": "359"
+    },
+    {
+        "country": "burkina-faso",
+        "provider": "onatel",
+        "prefix": [
+            "70",
+            "71",
+            "72"
+        ],
+        "country_code": "226"
+    },
+    {
+        "country": "burkina-faso",
+        "provider": "telecel",
+        "prefix": [
+            "78",
+            "79"
+        ],
+        "country_code": "226"
+    },
+    {
+        "country": "burkina-faso",
+        "provider": "zain",
+        "prefix": [
+            "74",
+            "75",
+            "77"
+        ],
+        "country_code": "226"
+    },
+    {
+        "country": "burundi",
+        "provider": "econet",
+        "prefix": [
+            "71",
+            "72",
+            "76",
+            "69"
+        ],
+        "country_code": "257"
+    },
+    {
+        "country": "burundi",
+        "provider": "onatel",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "257"
+    },
+    {
+        "country": "burundi",
+        "provider": "smart",
+        "prefix": [
+            "75"
+        ],
+        "country_code": "257"
+    },
+    {
+        "country": "burundi",
+        "provider": "telecel",
+        "prefix": [
+            "61",
+            "68",
+            "69"
+        ],
+        "country_code": "257"
+    },
+    {
+        "country": "cambodia",
+        "provider": "cellcard",
+        "prefix": [
+            "011",
+            "012",
+            "014",
+            "017",
+            "023",
+            "061",
+            "076",
+            "077",
+            "078",
+            "079",
+            "085",
+            "089",
+            "092",
+            "095",
+            "099"
+        ],
+        "country_code": "855"
+    },
+    {
+        "country": "cambodia",
+        "provider": "metfone",
+        "prefix": [
+            "031",
+            "060",
+            "066",
+            "067",
+            "068",
+            "071",
+            "088",
+            "090",
+            "097"
+        ],
+        "country_code": "855"
+    },
+    {
+        "country": "cambodia",
+        "provider": "qb",
+        "prefix": [
+            "013",
+            "080",
+            "083",
+            "084"
+        ],
+        "country_code": "855"
+    },
+    {
+        "country": "cambodia",
+        "provider": "seatel",
+        "prefix": [
+            "018",
+            "0189"
+        ],
+        "country_code": "855"
+    },
+    {
+        "country": "cambodia",
+        "provider": "smart",
+        "prefix": [
+            "010",
+            "015",
+            "016",
+            "069",
+            "070",
+            "081",
+            "086",
+            "087",
+            "093",
+            "096",
+            "098"
+        ],
+        "country_code": "855"
+    },
+    {
+        "country": "cameroon",
+        "provider": "mtn",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "237"
+    },
+    {
+        "country": "cameroon",
+        "provider": "orange",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "237"
+    },
+    {
+        "country": "cape-verde",
+        "provider": "cvmovel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "238"
+    },
+    {
+        "country": "cape-verde",
+        "provider": "unitel-t",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "238"
+    },
+    {
+        "country": "cayman-islands",
+        "provider": "digicel",
+        "prefix": [
+            "345"
+        ],
+        "country_code": "1345"
+    },
+    {
+        "country": "cayman-islands",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "345"
+        ],
+        "country_code": "1345"
+    },
+    {
+        "country": "central-african-republic",
+        "provider": "azur",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "236"
+    },
+    {
+        "country": "central-african-republic",
+        "provider": "moov",
+        "prefix": [
+            "70"
+        ],
+        "country_code": "236"
+    },
+    {
+        "country": "central-african-republic",
+        "provider": "orange",
+        "prefix": [
+            "72"
+        ],
+        "country_code": "236"
+    },
+    {
+        "country": "central-african-republic",
+        "provider": "telecel",
+        "prefix": [
+            "75"
+        ],
+        "country_code": "236"
+    },
+    {
+        "country": "chad",
+        "provider": "airtel",
+        "prefix": [
+            "63",
+            "65",
+            "66"
+        ],
+        "country_code": "235"
+    },
+    {
+        "country": "chad",
+        "provider": "salaam",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "235"
+    },
+    {
+        "country": "chad",
+        "provider": "tigo",
+        "prefix": [
+            "90",
+            "93",
+            "95",
+            "99"
+        ],
+        "country_code": "235"
+    },
+    {
+        "country": "chile",
+        "provider": "claro",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "entel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "falabella",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "movistar",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "nextel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "telsur",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "virgin-mobile",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "vtr-movil",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "chile",
+        "provider": "wom",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "56"
+    },
+    {
+        "country": "china",
+        "provider": "china-mobile",
+        "prefix": [
+            "1340",
+            "1341",
+            "1342",
+            "1343",
+            "1344",
+            "1345",
+            "1346",
+            "1347",
+            "1348",
+            "135",
+            "136",
+            "137",
+            "138",
+            "139",
+            "1440x",
+            "147",
+            "148",
+            "150",
+            "151",
+            "152",
+            "157",
+            "158",
+            "159",
+            "1703",
+            "1705",
+            "1706",
+            "1704",
+            "1707",
+            "1708",
+            "1709",
+            "182",
+            "183",
+            "184",
+            "187",
+            "188",
+            "198"
+        ],
+        "country_code": "86"
+    },
+    {
+        "country": "china",
+        "provider": "china-telecom",
+        "prefix": [
+            "133",
+            "153",
+            "1700",
+            "1701",
+            "1702",
+            "173",
+            "177",
+            "180",
+            "181",
+            "189",
+            "191",
+            "199"
+        ],
+        "country_code": "86"
+    },
+    {
+        "country": "china",
+        "provider": "china-tietong",
+        "prefix": [
+            "123"
+        ],
+        "country_code": "86"
+    },
+    {
+        "country": "china",
+        "provider": "china-unicom",
+        "prefix": [
+            "130",
+            "131",
+            "132",
+            "145",
+            "155",
+            "156",
+            "166",
+            "167",
+            "1704",
+            "1707",
+            "1708",
+            "1709",
+            "171",
+            "176",
+            "185",
+            "186"
+        ],
+        "country_code": "86"
+    },
+    {
+        "country": "colombia",
+        "provider": "avantel",
+        "prefix": [
+            "350",
+            "351"
+        ],
+        "country_code": "57"
+    },
+    {
+        "country": "colombia",
+        "provider": "claro",
+        "prefix": [
+            "310",
+            "311",
+            "312",
+            "313",
+            "314",
+            "32x"
+        ],
+        "country_code": "57"
+    },
+    {
+        "country": "colombia",
+        "provider": "comcel",
+        "prefix": [
+            "310",
+            "311",
+            "312",
+            "313",
+            "314",
+            "32x"
+        ],
+        "country_code": "57"
+    },
+    {
+        "country": "colombia",
+        "provider": "movil-exito",
+        "prefix": [
+            "310",
+            "311",
+            "312",
+            "313",
+            "314",
+            "32x"
+        ],
+        "country_code": "57"
+    },
+    {
+        "country": "colombia",
+        "provider": "movistar",
+        "prefix": [
+            "315",
+            "316",
+            "317",
+            "318",
+            "319"
+        ],
+        "country_code": "57"
+    },
+    {
+        "country": "colombia",
+        "provider": "tigo",
+        "prefix": [
+            "30x"
+        ],
+        "country_code": "57"
+    },
+    {
+        "country": "colombia",
+        "provider": "virgin-mobile",
+        "prefix": [
+            "319"
+        ],
+        "country_code": "57"
+    },
+    {
+        "country": "comoros",
+        "provider": "telecom",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "269"
+    },
+    {
+        "country": "comoros",
+        "provider": "telma",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "269"
+    },
+    {
+        "country": "cook-islands",
+        "provider": "telecom",
+        "prefix": [
+            "5x",
+            "7x"
+        ],
+        "country_code": "682"
+    },
+    {
+        "country": "costa-rica",
+        "provider": "claro",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "506"
+    },
+    {
+        "country": "costa-rica",
+        "provider": "kolbi",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "506"
+    },
+    {
+        "country": "costa-rica",
+        "provider": "movistar",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "506"
+    },
+    {
+        "country": "croatia",
+        "provider": "Telekom",
+        "prefix": [
+            "98",
+            "99"
+        ],
+        "country_code": "385"
+    },
+    {
+        "country": "croatia",
+        "provider": "a1",
+        "prefix": [
+            "91"
+        ],
+        "country_code": "385"
+    },
+    {
+        "country": "croatia",
+        "provider": "bonbon",
+        "prefix": [
+            "97"
+        ],
+        "country_code": "385"
+    },
+    {
+        "country": "croatia",
+        "provider": "tele2",
+        "prefix": [
+            "95"
+        ],
+        "country_code": "385"
+    },
+    {
+        "country": "cuba",
+        "provider": "etecsa",
+        "prefix": [
+            "5"
+        ],
+        "country_code": "53"
+    },
+    {
+        "country": "cyprus",
+        "provider": "cytamobile-vodafone",
+        "prefix": [
+            "97",
+            "99"
+        ],
+        "country_code": "357"
+    },
+    {
+        "country": "cyprus",
+        "provider": "epic",
+        "prefix": [
+            "96"
+        ],
+        "country_code": "357"
+    },
+    {
+        "country": "cyprus",
+        "provider": "lemontel",
+        "prefix": [
+            "94"
+        ],
+        "country_code": "357"
+    },
+    {
+        "country": "cyprus",
+        "provider": "primetel",
+        "prefix": [
+            "95"
+        ],
+        "country_code": "357"
+    },
+    {
+        "country": "czech-republic",
+        "provider": "o2",
+        "prefix": [
+            "601",
+            "602",
+            "606",
+            "607",
+            "702",
+            "72x"
+        ],
+        "country_code": "420"
+    },
+    {
+        "country": "czech-republic",
+        "provider": "t-mobile",
+        "prefix": [
+            "603",
+            "604",
+            "605",
+            "73x"
+        ],
+        "country_code": "420"
+    },
+    {
+        "country": "czech-republic",
+        "provider": "ufon",
+        "prefix": [
+            "790"
+        ],
+        "country_code": "420"
+    },
+    {
+        "country": "czech-republic",
+        "provider": "vodafone",
+        "prefix": [
+            "608",
+            "77x"
+        ],
+        "country_code": "420"
+    },
+    {
+        "country": "democratic-republic-of-congo",
+        "provider": "africell",
+        "prefix": [
+            "90"
+        ],
+        "country_code": "243"
+    },
+    {
+        "country": "democratic-republic-of-congo",
+        "provider": "airtel",
+        "prefix": [
+            "99"
+        ],
+        "country_code": "243"
+    },
+    {
+        "country": "democratic-republic-of-congo",
+        "provider": "vodacom",
+        "prefix": [
+            "81"
+        ],
+        "country_code": "243"
+    },
+    {
+        "country": "denmark",
+        "provider": "tdc",
+        "prefix": [
+            "2x"
+        ],
+        "country_code": "45"
+    },
+    {
+        "country": "denmark",
+        "provider": "telenor",
+        "prefix": [
+            "50"
+        ],
+        "country_code": "45"
+    },
+    {
+        "country": "djibouti",
+        "provider": "evatis",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "253"
+    },
+    {
+        "country": "dominica",
+        "provider": "digicel",
+        "prefix": [
+            "767 2"
+        ],
+        "country_code": "1767"
+    },
+    {
+        "country": "dominica",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "767 2"
+        ],
+        "country_code": "1767"
+    },
+    {
+        "country": "dominican-republic",
+        "provider": "claro",
+        "prefix": [
+            "809",
+            "829",
+            "849"
+        ],
+        "country_code": "1809"
+    },
+    {
+        "country": "dominican-republic",
+        "provider": "orange",
+        "prefix": [
+            "809",
+            "829",
+            "849"
+        ],
+        "country_code": "1809"
+    },
+    {
+        "country": "dominican-republic",
+        "provider": "tricom",
+        "prefix": [
+            "809",
+            "829",
+            "849"
+        ],
+        "country_code": "1809"
+    },
+    {
+        "country": "dominican-republic",
+        "provider": "viva",
+        "prefix": [
+            "809",
+            "829",
+            "849"
+        ],
+        "country_code": "1809"
+    },
+    {
+        "country": "east-timor",
+        "provider": "telemor",
+        "prefix": [
+            "77",
+            "78"
+        ],
+        "country_code": "670"
+    },
+    {
+        "country": "east-timor",
+        "provider": "telkomcel",
+        "prefix": [
+            "77",
+            "78"
+        ],
+        "country_code": "670"
+    },
+    {
+        "country": "east-timor",
+        "provider": "timor-telecom",
+        "prefix": [
+            "77",
+            "78"
+        ],
+        "country_code": "670"
+    },
+    {
+        "country": "ecuador",
+        "provider": "claro",
+        "prefix": [
+            "8",
+            "9"
+        ],
+        "country_code": "593"
+    },
+    {
+        "country": "ecuador",
+        "provider": "cnt",
+        "prefix": [
+            "8",
+            "9"
+        ],
+        "country_code": "593"
+    },
+    {
+        "country": "ecuador",
+        "provider": "movistar",
+        "prefix": [
+            "8",
+            "9"
+        ],
+        "country_code": "593"
+    },
+    {
+        "country": "ecuador",
+        "provider": "tuenti",
+        "prefix": [
+            "8",
+            "9"
+        ],
+        "country_code": "593"
+    },
+    {
+        "country": "egypt",
+        "provider": "etisalat",
+        "prefix": [
+            "11"
+        ],
+        "country_code": "20"
+    },
+    {
+        "country": "egypt",
+        "provider": "mobinil",
+        "prefix": [
+            "12"
+        ],
+        "country_code": "20"
+    },
+    {
+        "country": "egypt",
+        "provider": "vodafone",
+        "prefix": [
+            "10"
+        ],
+        "country_code": "20"
+    },
+    {
+        "country": "el-salvador",
+        "provider": "claro",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "503"
+    },
+    {
+        "country": "el-salvador",
+        "provider": "digicel",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "503"
+    },
+    {
+        "country": "el-salvador",
+        "provider": "movistar",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "503"
+    },
+    {
+        "country": "el-salvador",
+        "provider": "tigo",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "503"
+    },
+    {
+        "country": "equatorial-guinea",
+        "provider": "muni",
+        "prefix": [
+            "2",
+            "7"
+        ],
+        "country_code": "240"
+    },
+    {
+        "country": "equatorial-guinea",
+        "provider": "orange",
+        "prefix": [
+            "2",
+            "7"
+        ],
+        "country_code": "240"
+    },
+    {
+        "country": "eritrea",
+        "provider": "eritel",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "291"
+    },
+    {
+        "country": "estonia",
+        "provider": "elisa",
+        "prefix": [
+            "5x",
+            "81",
+            "82",
+            "83",
+            "84"
+        ],
+        "country_code": "372"
+    },
+    {
+        "country": "estonia",
+        "provider": "emt",
+        "prefix": [
+            "5x",
+            "81",
+            "82",
+            "83",
+            "84"
+        ],
+        "country_code": "372"
+    },
+    {
+        "country": "estonia",
+        "provider": "tele2",
+        "prefix": [
+            "5x",
+            "81",
+            "82",
+            "83",
+            "84"
+        ],
+        "country_code": "372"
+    },
+    {
+        "country": "ethiopia",
+        "provider": "ethio-telecom",
+        "prefix": [
+            "9X"
+        ],
+        "country_code": "251"
+    },
+    {
+        "country": "fiji",
+        "provider": "digicel",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "679"
+    },
+    {
+        "country": "fiji",
+        "provider": "telecom",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "679"
+    },
+    {
+        "country": "fiji",
+        "provider": "vodafone",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "679"
+    },
+    {
+        "country": "finland",
+        "provider": "alcom",
+        "prefix": [
+            "4x",
+            "457",
+            "50"
+        ],
+        "country_code": "358"
+    },
+    {
+        "country": "finland",
+        "provider": "dna",
+        "prefix": [
+            "4x",
+            "457",
+            "50"
+        ],
+        "country_code": "358"
+    },
+    {
+        "country": "finland",
+        "provider": "elisa",
+        "prefix": [
+            "4x",
+            "457",
+            "50"
+        ],
+        "country_code": "358"
+    },
+    {
+        "country": "finland",
+        "provider": "telia",
+        "prefix": [
+            "4x",
+            "457",
+            "50"
+        ],
+        "country_code": "358"
+    },
+    {
+        "country": "finland",
+        "provider": "ukkoverkot",
+        "prefix": [
+            "4x",
+            "457",
+            "50"
+        ],
+        "country_code": "358"
+    },
+    {
+        "country": "finland",
+        "provider": "virve",
+        "prefix": [
+            "4x",
+            "457",
+            "50"
+        ],
+        "country_code": "358"
+    },
+    {
+        "country": "france",
+        "provider": "bouygues",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "free-mobile",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "globalstar",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "la-poste-mobile",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "nrj-mobile",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "orange",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "sfr",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "transatel-mobile",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "france",
+        "provider": "virgin-mobile",
+        "prefix": [
+            "6",
+            "700",
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "33"
+    },
+    {
+        "country": "french-polynesia",
+        "provider": "vini",
+        "prefix": [
+            "87"
+        ],
+        "country_code": "689"
+    },
+    {
+        "country": "french-polynesia",
+        "provider": "vodafone",
+        "prefix": [
+            "89"
+        ],
+        "country_code": "689"
+    },
+    {
+        "country": "gabon",
+        "provider": "airtel",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "country_code": "241"
+    },
+    {
+        "country": "gabon",
+        "provider": "azur",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "country_code": "241"
+    },
+    {
+        "country": "gabon",
+        "provider": "gabon-telecom",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "country_code": "241"
+    },
+    {
+        "country": "gabon",
+        "provider": "moov",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "country_code": "241"
+    },
+    {
+        "country": "gambia",
+        "provider": "africell",
+        "prefix": [
+            "7x"
+        ],
+        "country_code": "220"
+    },
+    {
+        "country": "gambia",
+        "provider": "comium",
+        "prefix": [
+            "6x"
+        ],
+        "country_code": "220"
+    },
+    {
+        "country": "gambia",
+        "provider": "gamcel",
+        "prefix": [
+            "9x"
+        ],
+        "country_code": "220"
+    },
+    {
+        "country": "gambia",
+        "provider": "netpage",
+        "prefix": [
+            "7x",
+            "9x"
+        ],
+        "country_code": "220"
+    },
+    {
+        "country": "gambia",
+        "provider": "qcell",
+        "prefix": [
+            "3x"
+        ],
+        "country_code": "220"
+    },
+    {
+        "country": "georgia",
+        "provider": "beeline",
+        "prefix": [
+            "568",
+            "571",
+            "574",
+            "579",
+            "592",
+            "597"
+        ],
+        "country_code": "995"
+    },
+    {
+        "country": "georgia",
+        "provider": "geocell",
+        "prefix": [
+            "514",
+            "555",
+            "557",
+            "558",
+            "577",
+            "593",
+            ""
+        ],
+        "country_code": "995"
+    },
+    {
+        "country": "georgia",
+        "provider": "magti",
+        "prefix": [
+            "551",
+            "591",
+            "595",
+            "596",
+            "598",
+            "599"
+        ],
+        "country_code": "995"
+    },
+    {
+        "country": "georgia",
+        "provider": "silknet",
+        "prefix": [
+            "570"
+        ],
+        "country_code": "995"
+    },
+    {
+        "country": "germany",
+        "provider": "o2",
+        "prefix": [
+            "159x",
+            "176",
+            "179"
+        ],
+        "country_code": "49"
+    },
+    {
+        "country": "germany",
+        "provider": "simquadrat",
+        "prefix": [
+            "159x",
+            "176",
+            "179"
+        ],
+        "country_code": "49"
+    },
+    {
+        "country": "germany",
+        "provider": "t-mobile",
+        "prefix": [
+            "151x",
+            "160",
+            "170",
+            "171",
+            "175"
+        ],
+        "country_code": "49"
+    },
+    {
+        "country": "germany",
+        "provider": "vodafone",
+        "prefix": [
+            "152x",
+            "162",
+            "172",
+            "173",
+            "174"
+        ],
+        "country_code": "49"
+    },
+    {
+        "country": "ghana",
+        "provider": "glo",
+        "prefix": [
+            "23"
+        ],
+        "country_code": "233"
+    },
+    {
+        "country": "ghana",
+        "provider": "mtn",
+        "prefix": [
+            "24",
+            "54"
+        ],
+        "country_code": "233"
+    },
+    {
+        "country": "ghana",
+        "provider": "tigo",
+        "prefix": [
+            "26",
+            "27",
+            "57"
+        ],
+        "country_code": "233"
+    },
+    {
+        "country": "ghana",
+        "provider": "vodafone",
+        "prefix": [
+            "20"
+        ],
+        "country_code": "233"
+    },
+    {
+        "country": "gibraltar",
+        "provider": "gibtelecom",
+        "prefix": [
+            "58x"
+        ],
+        "country_code": "350"
+    },
+    {
+        "country": "greece",
+        "provider": "cosmote",
+        "prefix": [
+            "697",
+            "698"
+        ],
+        "country_code": "30"
+    },
+    {
+        "country": "greece",
+        "provider": "cyta",
+        "prefix": [
+            "685",
+            "695"
+        ],
+        "country_code": "30"
+    },
+    {
+        "country": "greece",
+        "provider": "vodafone",
+        "prefix": [
+            "694",
+            "695"
+        ],
+        "country_code": "30"
+    },
+    {
+        "country": "greece",
+        "provider": "wind",
+        "prefix": [
+            "690",
+            "693",
+            "699"
+        ],
+        "country_code": "30"
+    },
+    {
+        "country": "grenada",
+        "provider": "digicel",
+        "prefix": [
+            "41x"
+        ],
+        "country_code": "1473"
+    },
+    {
+        "country": "grenada",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "41x"
+        ],
+        "country_code": "1473"
+    },
+    {
+        "country": "guadeloupe",
+        "provider": "digicel",
+        "prefix": [
+            "700"
+        ],
+        "country_code": "590"
+    },
+    {
+        "country": "guadeloupe",
+        "provider": "orange",
+        "prefix": [
+            "690"
+        ],
+        "country_code": "590"
+    },
+    {
+        "country": "guatemala",
+        "provider": "claro",
+        "prefix": [
+            "3",
+            "4",
+            "5"
+        ],
+        "country_code": "502"
+    },
+    {
+        "country": "guatemala",
+        "provider": "movistar",
+        "prefix": [
+            "3",
+            "4",
+            "5"
+        ],
+        "country_code": "502"
+    },
+    {
+        "country": "guatemala",
+        "provider": "tigo",
+        "prefix": [
+            "3",
+            "4",
+            "5"
+        ],
+        "country_code": "502"
+    },
+    {
+        "country": "guinea-bissau",
+        "provider": "mtn",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "245"
+    },
+    {
+        "country": "guinea-bissau",
+        "provider": "orange",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "245"
+    },
+    {
+        "country": "guinea",
+        "provider": "cellcom",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "224"
+    },
+    {
+        "country": "guinea",
+        "provider": "mtn",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "224"
+    },
+    {
+        "country": "guinea",
+        "provider": "orange",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "224"
+    },
+    {
+        "country": "guinea",
+        "provider": "telecel",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "224"
+    },
+    {
+        "country": "haiti",
+        "provider": "digicel",
+        "prefix": [
+            "36",
+            "37",
+            "38",
+            "4x"
+        ],
+        "country_code": "509"
+    },
+    {
+        "country": "haiti",
+        "provider": "natcom",
+        "prefix": [
+            "4x"
+        ],
+        "country_code": "509"
+    },
+    {
+        "country": "honduras",
+        "provider": "claro",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "504"
+    },
+    {
+        "country": "honduras",
+        "provider": "digicel",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "504"
+    },
+    {
+        "country": "honduras",
+        "provider": "hondutel",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "504"
+    },
+    {
+        "country": "honduras",
+        "provider": "tigo",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "504"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "3",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "china-hongkong-telecom",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "china-mobile",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "china-unicom",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "citic-telecom",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "csl",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "hutchison-telecom",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "pccw",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hong-kong",
+        "provider": "smartone",
+        "prefix": [
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "59",
+            "6x",
+            "90",
+            "91",
+            "92",
+            "93",
+            "94",
+            "95",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "852"
+    },
+    {
+        "country": "hungary",
+        "provider": "t-mobile",
+        "prefix": [
+            "30"
+        ],
+        "country_code": "36"
+    },
+    {
+        "country": "hungary",
+        "provider": "telenor",
+        "prefix": [
+            "20"
+        ],
+        "country_code": "36"
+    },
+    {
+        "country": "hungary",
+        "provider": "vodafone",
+        "prefix": [
+            "70"
+        ],
+        "country_code": "36"
+    },
+    {
+        "country": "iceland",
+        "provider": "nova",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "354"
+    },
+    {
+        "country": "iceland",
+        "provider": "on-waves",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "354"
+    },
+    {
+        "country": "iceland",
+        "provider": "siminn",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "354"
+    },
+    {
+        "country": "iceland",
+        "provider": "vodafone",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "354"
+    },
+    {
+        "country": "india",
+        "provider": "aircel",
+        "prefix": [
+            "7",
+            "8",
+            "90x",
+            "95x",
+            "96x",
+            "97x",
+            "98x",
+            "99x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "airtel",
+        "prefix": [
+            "7",
+            "8",
+            "90x",
+            "95x",
+            "96x",
+            "97x",
+            "98x",
+            "99x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "bpl-telecom",
+        "prefix": [
+            "7",
+            "8",
+            "90x",
+            "91x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "bsnl",
+        "prefix": [
+            "7",
+            "8",
+            "90x",
+            "91x",
+            "94x",
+            "95x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "idea",
+        "prefix": [
+            "7",
+            "8",
+            "90x",
+            "95x",
+            "96x",
+            "97x",
+            "98x",
+            "99x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "jio",
+        "prefix": [
+            "90x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "reliance",
+        "prefix": [
+            "7",
+            "8",
+            "90x",
+            "93x",
+            "95x",
+            "96x",
+            "97x",
+            "98x",
+            "99x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "tata-docomo",
+        "prefix": [
+            "92x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "india",
+        "provider": "vodafone",
+        "prefix": [
+            "7",
+            "8",
+            "90x",
+            "95x",
+            "96x",
+            "97x",
+            "98x",
+            "99x"
+        ],
+        "country_code": "91"
+    },
+    {
+        "country": "indonesia",
+        "provider": "3",
+        "prefix": [
+            "896",
+            "897",
+            "898",
+            "899"
+        ],
+        "country_code": "62"
+    },
+    {
+        "country": "indonesia",
+        "provider": "axis",
+        "prefix": [
+            "838"
+        ],
+        "country_code": "62"
+    },
+    {
+        "country": "indonesia",
+        "provider": "im3-ooredoo",
+        "prefix": [
+            "814",
+            "815",
+            "816",
+            "855",
+            "856",
+            "858"
+        ],
+        "country_code": "62"
+    },
+    {
+        "country": "indonesia",
+        "provider": "telkomsel",
+        "prefix": [
+            "811",
+            "812",
+            "813",
+            "852",
+            "853",
+            ""
+        ],
+        "country_code": "62"
+    },
+    {
+        "country": "indonesia",
+        "provider": "xl-axiata",
+        "prefix": [
+            "817",
+            "818",
+            "819",
+            "859",
+            "878"
+        ],
+        "country_code": "62"
+    },
+    {
+        "country": "iran",
+        "provider": "mtn-irancell",
+        "prefix": [
+            "901",
+            "902",
+            "903",
+            "930",
+            "933",
+            "935",
+            "936",
+            "937",
+            "938",
+            "939"
+        ],
+        "country_code": "98"
+    },
+    {
+        "country": "iran",
+        "provider": "rightel",
+        "prefix": [
+            "920",
+            "921",
+            "922",
+            ""
+        ],
+        "country_code": "98"
+    },
+    {
+        "country": "iran",
+        "provider": "taliya-mobile",
+        "prefix": [
+            "932"
+        ],
+        "country_code": "98"
+    },
+    {
+        "country": "iran",
+        "provider": "tci",
+        "prefix": [
+            "931",
+            "934"
+        ],
+        "country_code": "98"
+    },
+    {
+        "country": "iraq",
+        "provider": "asiacell",
+        "prefix": [
+            "77x"
+        ],
+        "country_code": "964"
+    },
+    {
+        "country": "iraq",
+        "provider": "korek-telecom",
+        "prefix": [
+            "73x",
+            "75x"
+        ],
+        "country_code": "964"
+    },
+    {
+        "country": "iraq",
+        "provider": "mobitel",
+        "prefix": [
+            "76x"
+        ],
+        "country_code": "964"
+    },
+    {
+        "country": "iraq",
+        "provider": "zain",
+        "prefix": [
+            "78x",
+            "79x"
+        ],
+        "country_code": "964"
+    },
+    {
+        "country": "ireland",
+        "provider": "3",
+        "prefix": [
+            "83",
+            "86"
+        ],
+        "country_code": "353"
+    },
+    {
+        "country": "ireland",
+        "provider": "eir",
+        "prefix": [
+            "85"
+        ],
+        "country_code": "353"
+    },
+    {
+        "country": "ireland",
+        "provider": "lycamobile",
+        "prefix": [
+            "89"
+        ],
+        "country_code": "353"
+    },
+    {
+        "country": "ireland",
+        "provider": "meteor",
+        "prefix": [
+            "85"
+        ],
+        "country_code": "353"
+    },
+    {
+        "country": "ireland",
+        "provider": "o2",
+        "prefix": [
+            "86"
+        ],
+        "country_code": "353"
+    },
+    {
+        "country": "ireland",
+        "provider": "tesco-mobile",
+        "prefix": [
+            "89"
+        ],
+        "country_code": "353"
+    },
+    {
+        "country": "ireland",
+        "provider": "vodafone",
+        "prefix": [
+            "87"
+        ],
+        "country_code": "353"
+    },
+    {
+        "country": "israel",
+        "provider": "cellcom",
+        "prefix": [
+            "52"
+        ],
+        "country_code": "972"
+    },
+    {
+        "country": "israel",
+        "provider": "golan-telecom",
+        "prefix": [
+            "58"
+        ],
+        "country_code": "972"
+    },
+    {
+        "country": "israel",
+        "provider": "hot-mobile",
+        "prefix": [
+            "53"
+        ],
+        "country_code": "972"
+    },
+    {
+        "country": "israel",
+        "provider": "partner",
+        "prefix": [
+            "54"
+        ],
+        "country_code": "972"
+    },
+    {
+        "country": "israel",
+        "provider": "pelephone",
+        "prefix": [
+            "50",
+            "558"
+        ],
+        "country_code": "972"
+    },
+    {
+        "country": "italy",
+        "provider": "3",
+        "prefix": [
+            "390",
+            "391",
+            "392",
+            "393",
+            "397"
+        ],
+        "country_code": "39"
+    },
+    {
+        "country": "italy",
+        "provider": "iliad",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "39"
+    },
+    {
+        "country": "italy",
+        "provider": "tim",
+        "prefix": [
+            "330",
+            "331",
+            "333",
+            "334",
+            "335",
+            "336",
+            "337",
+            "338",
+            "339",
+            "360",
+            "361",
+            "362",
+            "363",
+            "366",
+            "368"
+        ],
+        "country_code": "39"
+    },
+    {
+        "country": "italy",
+        "provider": "vodafone",
+        "prefix": [
+            "34x",
+            "383"
+        ],
+        "country_code": "39"
+    },
+    {
+        "country": "italy",
+        "provider": "wind",
+        "prefix": [
+            "320",
+            "322",
+            "323",
+            "324",
+            "327",
+            "328",
+            "329",
+            "380",
+            "388",
+            "389",
+            ""
+        ],
+        "country_code": "39"
+    },
+    {
+        "country": "ivory-coast",
+        "provider": "moov",
+        "prefix": [
+            "0x",
+            "6x"
+        ],
+        "country_code": "225"
+    },
+    {
+        "country": "ivory-coast",
+        "provider": "mtn",
+        "prefix": [
+            "0x",
+            "6x"
+        ],
+        "country_code": "225"
+    },
+    {
+        "country": "ivory-coast",
+        "provider": "orange",
+        "prefix": [
+            "0x",
+            "6x"
+        ],
+        "country_code": "225"
+    },
+    {
+        "country": "jamaica",
+        "provider": "caricel",
+        "prefix": [
+            "876"
+        ],
+        "country_code": "1876"
+    },
+    {
+        "country": "jamaica",
+        "provider": "digicel",
+        "prefix": [
+            "876"
+        ],
+        "country_code": "1876"
+    },
+    {
+        "country": "jamaica",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "876"
+        ],
+        "country_code": "1876"
+    },
+    {
+        "country": "japan",
+        "provider": "emobile",
+        "prefix": [
+            "70",
+            "80",
+            "90"
+        ],
+        "country_code": "81"
+    },
+    {
+        "country": "japan",
+        "provider": "kddi",
+        "prefix": [
+            "70",
+            "80",
+            "90"
+        ],
+        "country_code": "81"
+    },
+    {
+        "country": "japan",
+        "provider": "ntt-docomo",
+        "prefix": [
+            "70",
+            "80",
+            "90"
+        ],
+        "country_code": "81"
+    },
+    {
+        "country": "japan",
+        "provider": "softbank",
+        "prefix": [
+            "70",
+            "80",
+            "90"
+        ],
+        "country_code": "81"
+    },
+    {
+        "country": "jordan",
+        "provider": "orange",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "962"
+    },
+    {
+        "country": "jordan",
+        "provider": "umniah",
+        "prefix": [
+            "78"
+        ],
+        "country_code": "962"
+    },
+    {
+        "country": "jordan",
+        "provider": "zain",
+        "prefix": [
+            "79"
+        ],
+        "country_code": "962"
+    },
+    {
+        "country": "kazakhstan",
+        "provider": "altel",
+        "prefix": [
+            "700"
+        ],
+        "country_code": "7"
+    },
+    {
+        "country": "kazakhstan",
+        "provider": "beeline",
+        "prefix": [
+            "705",
+            "777"
+        ],
+        "country_code": "7"
+    },
+    {
+        "country": "kazakhstan",
+        "provider": "kcell",
+        "prefix": [
+            "701",
+            "702"
+        ],
+        "country_code": "7"
+    },
+    {
+        "country": "kazakhstan",
+        "provider": "tele2",
+        "prefix": [
+            "707"
+        ],
+        "country_code": "7"
+    },
+    {
+        "country": "kenya",
+        "provider": "airtel",
+        "prefix": [
+            "73x",
+            "78x"
+        ],
+        "country_code": "254"
+    },
+    {
+        "country": "kenya",
+        "provider": "faiba",
+        "prefix": [
+            "747"
+        ],
+        "country_code": "254"
+    },
+    {
+        "country": "kenya",
+        "provider": "orange",
+        "prefix": [
+            "77x"
+        ],
+        "country_code": "254"
+    },
+    {
+        "country": "kenya",
+        "provider": "safaricom",
+        "prefix": [
+            "70x",
+            "71x",
+            "72x"
+        ],
+        "country_code": "254"
+    },
+    {
+        "country": "kiribati",
+        "provider": "athkl",
+        "prefix": [
+            "6x",
+            "9x"
+        ],
+        "country_code": "686"
+    },
+    {
+        "country": "kuwait",
+        "provider": "ooredoo",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "965"
+    },
+    {
+        "country": "kuwait",
+        "provider": "viva",
+        "prefix": [
+            "5"
+        ],
+        "country_code": "965"
+    },
+    {
+        "country": "kuwait",
+        "provider": "zain",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "965"
+    },
+    {
+        "country": "kyrgyzstan",
+        "provider": "beeline",
+        "prefix": [
+            "5"
+        ],
+        "country_code": "996"
+    },
+    {
+        "country": "kyrgyzstan",
+        "provider": "megacom",
+        "prefix": [
+            "5"
+        ],
+        "country_code": "996"
+    },
+    {
+        "country": "kyrgyzstan",
+        "provider": "o",
+        "prefix": [
+            "5"
+        ],
+        "country_code": "996"
+    },
+    {
+        "country": "laos",
+        "provider": "etl",
+        "prefix": [
+            "20"
+        ],
+        "country_code": "856"
+    },
+    {
+        "country": "laos",
+        "provider": "laotel",
+        "prefix": [
+            "20"
+        ],
+        "country_code": "856"
+    },
+    {
+        "country": "laos",
+        "provider": "tigo",
+        "prefix": [
+            "20"
+        ],
+        "country_code": "856"
+    },
+    {
+        "country": "laos",
+        "provider": "unitel",
+        "prefix": [
+            "20"
+        ],
+        "country_code": "856"
+    },
+    {
+        "country": "latvia",
+        "provider": "bite",
+        "prefix": [
+            "2"
+        ],
+        "country_code": "371"
+    },
+    {
+        "country": "latvia",
+        "provider": "lmt",
+        "prefix": [
+            "2"
+        ],
+        "country_code": "371"
+    },
+    {
+        "country": "latvia",
+        "provider": "rigatta",
+        "prefix": [
+            "2"
+        ],
+        "country_code": "371"
+    },
+    {
+        "country": "latvia",
+        "provider": "tele2",
+        "prefix": [
+            "2"
+        ],
+        "country_code": "371"
+    },
+    {
+        "country": "latvia",
+        "provider": "triatel",
+        "prefix": [
+            "2"
+        ],
+        "country_code": "371"
+    },
+    {
+        "country": "lebanon",
+        "provider": "alfa",
+        "prefix": [
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "701",
+            "702",
+            "703",
+            "704",
+            "705",
+            "710",
+            "716",
+            "717",
+            "718",
+            "719",
+            "761",
+            "763",
+            "764",
+            "765",
+            "791",
+            "792",
+            "793",
+            "812",
+            "813"
+        ],
+        "country_code": "961"
+    },
+    {
+        "country": "lebanon",
+        "provider": "touch",
+        "prefix": [
+            "30",
+            "36",
+            "37",
+            "38",
+            "39",
+            "700",
+            "706",
+            "707",
+            "708",
+            "709",
+            "711",
+            "712",
+            "713",
+            "714",
+            "715",
+            "760",
+            "766",
+            "767",
+            "768",
+            "769",
+            "788",
+            "789",
+            "816",
+            "817"
+        ],
+        "country_code": "961"
+    },
+    {
+        "country": "lesotho",
+        "provider": "econet-telecom",
+        "prefix": [
+            "58",
+            "6x"
+        ],
+        "country_code": "266"
+    },
+    {
+        "country": "lesotho",
+        "provider": "vodacom",
+        "prefix": [
+            "58",
+            "6x"
+        ],
+        "country_code": "266"
+    },
+    {
+        "country": "liberia",
+        "provider": "libtelco",
+        "prefix": [
+            "46",
+            "47",
+            "5",
+            "64",
+            "65"
+        ],
+        "country_code": "231"
+    },
+    {
+        "country": "liberia",
+        "provider": "lonestar-cell",
+        "prefix": [
+            "46",
+            "47",
+            "5",
+            "64",
+            "65"
+        ],
+        "country_code": "231"
+    },
+    {
+        "country": "liberia",
+        "provider": "novafone",
+        "prefix": [
+            "46",
+            "47",
+            "5",
+            "64",
+            "65"
+        ],
+        "country_code": "231"
+    },
+    {
+        "country": "liberia",
+        "provider": "orange",
+        "prefix": [
+            "46",
+            "47",
+            "5",
+            "64",
+            "65"
+        ],
+        "country_code": "231"
+    },
+    {
+        "country": "libya",
+        "provider": "al-madar",
+        "prefix": [
+            "91"
+        ],
+        "country_code": "218"
+    },
+    {
+        "country": "libya",
+        "provider": "libyana",
+        "prefix": [
+            "92",
+            "94"
+        ],
+        "country_code": "218"
+    },
+    {
+        "country": "liechtenstein",
+        "provider": "cubic-telecom",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "423"
+    },
+    {
+        "country": "liechtenstein",
+        "provider": "fl1",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "423"
+    },
+    {
+        "country": "liechtenstein",
+        "provider": "orange",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "423"
+    },
+    {
+        "country": "liechtenstein",
+        "provider": "swisscom",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "423"
+    },
+    {
+        "country": "lithuania",
+        "provider": "bite",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "370"
+    },
+    {
+        "country": "lithuania",
+        "provider": "mediafon",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "370"
+    },
+    {
+        "country": "lithuania",
+        "provider": "tele-2",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "370"
+    },
+    {
+        "country": "lithuania",
+        "provider": "telia",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "370"
+    },
+    {
+        "country": "luxembourg",
+        "provider": "orange",
+        "prefix": [
+            "661",
+            "668"
+        ],
+        "country_code": "352"
+    },
+    {
+        "country": "luxembourg",
+        "provider": "post",
+        "prefix": [
+            "621",
+            "628"
+        ],
+        "country_code": "352"
+    },
+    {
+        "country": "luxembourg",
+        "provider": "tango",
+        "prefix": [
+            "691",
+            "698"
+        ],
+        "country_code": "352"
+    },
+    {
+        "country": "macao",
+        "provider": "3",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "853"
+    },
+    {
+        "country": "macao",
+        "provider": "china-telecom",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "853"
+    },
+    {
+        "country": "macao",
+        "provider": "ctm",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "853"
+    },
+    {
+        "country": "macao",
+        "provider": "smartone",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "853"
+    },
+    {
+        "country": "macedonia",
+        "provider": "cosmofon",
+        "prefix": [
+            "79"
+        ],
+        "country_code": "389"
+    },
+    {
+        "country": "macedonia",
+        "provider": "t-mobile",
+        "prefix": [
+            "70",
+            "71",
+            "72"
+        ],
+        "country_code": "389"
+    },
+    {
+        "country": "macedonia",
+        "provider": "vip",
+        "prefix": [
+            "75",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "389"
+    },
+    {
+        "country": "madagascar",
+        "provider": "airtel",
+        "prefix": [
+            "33"
+        ],
+        "country_code": "261"
+    },
+    {
+        "country": "madagascar",
+        "provider": "orange",
+        "prefix": [
+            "32"
+        ],
+        "country_code": "261"
+    },
+    {
+        "country": "madagascar",
+        "provider": "telma",
+        "prefix": [
+            "34"
+        ],
+        "country_code": "261"
+    },
+    {
+        "country": "malawi",
+        "provider": "access",
+        "prefix": [
+            "2"
+        ],
+        "country_code": "265"
+    },
+    {
+        "country": "malawi",
+        "provider": "airtel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "265"
+    },
+    {
+        "country": "malawi",
+        "provider": "tnm",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "265"
+    },
+    {
+        "country": "malaysia",
+        "provider": "celcom",
+        "prefix": [
+            "13",
+            "19"
+        ],
+        "country_code": "60"
+    },
+    {
+        "country": "malaysia",
+        "provider": "digi",
+        "prefix": [
+            "10",
+            "143",
+            "146",
+            "149",
+            "16"
+        ],
+        "country_code": "60"
+    },
+    {
+        "country": "malaysia",
+        "provider": "maxis",
+        "prefix": [
+            "11",
+            "12",
+            "142",
+            "17"
+        ],
+        "country_code": "60"
+    },
+    {
+        "country": "malaysia",
+        "provider": "u-mobile",
+        "prefix": [
+            "18"
+        ],
+        "country_code": "60"
+    },
+    {
+        "country": "maldives",
+        "provider": "dhiraagu",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "960"
+    },
+    {
+        "country": "maldives",
+        "provider": "ooredoo",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "960"
+    },
+    {
+        "country": "mali",
+        "provider": "malitel",
+        "prefix": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "country_code": "223"
+    },
+    {
+        "country": "mali",
+        "provider": "orange",
+        "prefix": [
+            "3",
+            "4",
+            "5",
+            "7"
+        ],
+        "country_code": "223"
+    },
+    {
+        "country": "malta",
+        "provider": "go",
+        "prefix": [
+            "79"
+        ],
+        "country_code": "356"
+    },
+    {
+        "country": "malta",
+        "provider": "melita",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "356"
+    },
+    {
+        "country": "malta",
+        "provider": "vodafone",
+        "prefix": [
+            "99"
+        ],
+        "country_code": "356"
+    },
+    {
+        "country": "mauretania",
+        "provider": "chinguitel",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "222"
+    },
+    {
+        "country": "mauretania",
+        "provider": "mattel",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "222"
+    },
+    {
+        "country": "mauretania",
+        "provider": "mauritel",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "222"
+    },
+    {
+        "country": "mauritius",
+        "provider": "chili",
+        "prefix": [
+            "57",
+            "58",
+            "59"
+        ],
+        "country_code": "230"
+    },
+    {
+        "country": "mauritius",
+        "provider": "emtel",
+        "prefix": [
+            "57",
+            "58",
+            "59"
+        ],
+        "country_code": "230"
+    },
+    {
+        "country": "mauritius",
+        "provider": "orange",
+        "prefix": [
+            "57",
+            "58",
+            "59"
+        ],
+        "country_code": "230"
+    },
+    {
+        "country": "mexico",
+        "provider": "altan-redes",
+        "prefix": [
+            "1"
+        ],
+        "country_code": "52"
+    },
+    {
+        "country": "mexico",
+        "provider": "att",
+        "prefix": [
+            "1"
+        ],
+        "country_code": "52"
+    },
+    {
+        "country": "mexico",
+        "provider": "movistar",
+        "prefix": [
+            "1"
+        ],
+        "country_code": "52"
+    },
+    {
+        "country": "mexico",
+        "provider": "telcel",
+        "prefix": [
+            "1"
+        ],
+        "country_code": "52"
+    },
+    {
+        "country": "mexico",
+        "provider": "ultranet",
+        "prefix": [
+            "1"
+        ],
+        "country_code": "52"
+    },
+    {
+        "country": "mexico",
+        "provider": "unefon",
+        "prefix": [
+            "1"
+        ],
+        "country_code": "52"
+    },
+    {
+        "country": "micronesia",
+        "provider": "fsmtc",
+        "prefix": [
+            "92",
+            "93",
+            "95",
+            "97"
+        ],
+        "country_code": "691"
+    },
+    {
+        "country": "moldova",
+        "provider": "moldcell",
+        "prefix": [
+            "78",
+            "79"
+        ],
+        "country_code": "373"
+    },
+    {
+        "country": "moldova",
+        "provider": "orange",
+        "prefix": [
+            "60",
+            "68",
+            "69"
+        ],
+        "country_code": "373"
+    },
+    {
+        "country": "moldova",
+        "provider": "unite",
+        "prefix": [
+            "67"
+        ],
+        "country_code": "373"
+    },
+    {
+        "country": "monaco",
+        "provider": "telecom",
+        "prefix": [
+            "4",
+            "6"
+        ],
+        "country_code": "377"
+    },
+    {
+        "country": "mongolia",
+        "provider": "gmobile",
+        "prefix": [
+            "93",
+            "98"
+        ],
+        "country_code": "976"
+    },
+    {
+        "country": "mongolia",
+        "provider": "mobicom",
+        "prefix": [
+            "94",
+            "95",
+            "99"
+        ],
+        "country_code": "976"
+    },
+    {
+        "country": "mongolia",
+        "provider": "skytel",
+        "prefix": [
+            "91",
+            "96"
+        ],
+        "country_code": "976"
+    },
+    {
+        "country": "mongolia",
+        "provider": "unitel",
+        "prefix": [
+            "88",
+            "89"
+        ],
+        "country_code": "976"
+    },
+    {
+        "country": "montenegro",
+        "provider": "mtel",
+        "prefix": [
+            "68"
+        ],
+        "country_code": "382"
+    },
+    {
+        "country": "montenegro",
+        "provider": "t-mobile",
+        "prefix": [
+            "67"
+        ],
+        "country_code": "382"
+    },
+    {
+        "country": "montenegro",
+        "provider": "telenor",
+        "prefix": [
+            "63",
+            "69"
+        ],
+        "country_code": "382"
+    },
+    {
+        "country": "morocco",
+        "provider": "iam",
+        "prefix": [
+            "6x"
+        ],
+        "country_code": "212"
+    },
+    {
+        "country": "morocco",
+        "provider": "inwi",
+        "prefix": [
+            "6x"
+        ],
+        "country_code": "212"
+    },
+    {
+        "country": "morocco",
+        "provider": "orange",
+        "prefix": [
+            "6x"
+        ],
+        "country_code": "212"
+    },
+    {
+        "country": "mozambique",
+        "provider": "mcel",
+        "prefix": [
+            "82",
+            "83"
+        ],
+        "country_code": "258"
+    },
+    {
+        "country": "mozambique",
+        "provider": "movitel",
+        "prefix": [
+            "86",
+            "87"
+        ],
+        "country_code": "258"
+    },
+    {
+        "country": "mozambique",
+        "provider": "vodacom",
+        "prefix": [
+            "84",
+            "85"
+        ],
+        "country_code": "258"
+    },
+    {
+        "country": "myanmar",
+        "provider": "mpt",
+        "prefix": [
+            "92",
+            "94",
+            "95",
+            "96",
+            "973",
+            "991"
+        ],
+        "country_code": "95"
+    },
+    {
+        "country": "myanmar",
+        "provider": "mytel",
+        "prefix": [
+            "96"
+        ],
+        "country_code": "95"
+    },
+    {
+        "country": "myanmar",
+        "provider": "ooredoo",
+        "prefix": [
+            "996",
+            "997"
+        ],
+        "country_code": "95"
+    },
+    {
+        "country": "myanmar",
+        "provider": "telenor",
+        "prefix": [
+            "977",
+            "978",
+            "979"
+        ],
+        "country_code": "95"
+    },
+    {
+        "country": "namibia",
+        "provider": "mtc",
+        "prefix": [
+            "81"
+        ],
+        "country_code": "264"
+    },
+    {
+        "country": "namibia",
+        "provider": "tn-mobile",
+        "prefix": [
+            "85"
+        ],
+        "country_code": "264"
+    },
+    {
+        "country": "nauru",
+        "provider": "digicel",
+        "prefix": [
+            "555"
+        ],
+        "country_code": "674"
+    },
+    {
+        "country": "nepal",
+        "provider": "ncell",
+        "prefix": [
+            "98"
+        ],
+        "country_code": "977"
+    },
+    {
+        "country": "nepal",
+        "provider": "nepal-telecom",
+        "prefix": [
+            "98"
+        ],
+        "country_code": "977"
+    },
+    {
+        "country": "nepal",
+        "provider": "smart-cell",
+        "prefix": [
+            "98"
+        ],
+        "country_code": "977"
+    },
+    {
+        "country": "nepal",
+        "provider": "united-telecom-limited",
+        "prefix": [
+            "98"
+        ],
+        "country_code": "977"
+    },
+    {
+        "country": "netherlands",
+        "provider": "kpn",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "netherlands",
+        "provider": "lycamobile",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "netherlands",
+        "provider": "t-mobile",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "netherlands",
+        "provider": "tele2",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "netherlands",
+        "provider": "telfort",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "netherlands",
+        "provider": "vectone-mobile",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "netherlands",
+        "provider": "vodafone",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "netherlands",
+        "provider": "ziggo",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "31"
+    },
+    {
+        "country": "new-caledonia",
+        "provider": "opt",
+        "prefix": [
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "687"
+    },
+    {
+        "country": "new-zealand",
+        "provider": "2degrees",
+        "prefix": [
+            "22"
+        ],
+        "country_code": "64"
+    },
+    {
+        "country": "new-zealand",
+        "provider": "spark",
+        "prefix": [
+            "27"
+        ],
+        "country_code": "64"
+    },
+    {
+        "country": "new-zealand",
+        "provider": "vodafone",
+        "prefix": [
+            "21"
+        ],
+        "country_code": "64"
+    },
+    {
+        "country": "nicaragua",
+        "provider": "claro",
+        "prefix": [
+            "5",
+            "7",
+            "8"
+        ],
+        "country_code": "505"
+    },
+    {
+        "country": "nicaragua",
+        "provider": "movistar",
+        "prefix": [
+            "5",
+            "7",
+            "8"
+        ],
+        "country_code": "505"
+    },
+    {
+        "country": "niger",
+        "provider": "airtel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "227"
+    },
+    {
+        "country": "niger",
+        "provider": "moov",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "227"
+    },
+    {
+        "country": "niger",
+        "provider": "orange",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "227"
+    },
+    {
+        "country": "niger",
+        "provider": "sahelcom",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "227"
+    },
+    {
+        "country": "nigeria",
+        "provider": "9mobile",
+        "prefix": [
+            "809"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "airtel",
+        "prefix": [
+            "802"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "glo",
+        "prefix": [
+            "805"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "interc",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "mtn",
+        "prefix": [
+            "803"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "ntel",
+        "prefix": [
+            "804"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "smile",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "spectranet",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "nigeria",
+        "provider": "swift",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "234"
+    },
+    {
+        "country": "niue",
+        "provider": "telecom",
+        "prefix": [
+            "1",
+            "3",
+            "4"
+        ],
+        "country_code": "683"
+    },
+    {
+        "country": "norway",
+        "provider": "ice",
+        "prefix": [
+            "4",
+            "59",
+            "9"
+        ],
+        "country_code": "47"
+    },
+    {
+        "country": "norway",
+        "provider": "lycamobile",
+        "prefix": [
+            "4",
+            "59",
+            "9"
+        ],
+        "country_code": "47"
+    },
+    {
+        "country": "norway",
+        "provider": "tdc",
+        "prefix": [
+            "4",
+            "59",
+            "9"
+        ],
+        "country_code": "47"
+    },
+    {
+        "country": "norway",
+        "provider": "tele2",
+        "prefix": [
+            "4",
+            "59",
+            "9"
+        ],
+        "country_code": "47"
+    },
+    {
+        "country": "norway",
+        "provider": "telenor",
+        "prefix": [
+            "4",
+            "59",
+            "9"
+        ],
+        "country_code": "47"
+    },
+    {
+        "country": "norway",
+        "provider": "telia",
+        "prefix": [
+            "4",
+            "59",
+            "9"
+        ],
+        "country_code": "47"
+    },
+    {
+        "country": "oman",
+        "provider": "omantel",
+        "prefix": [
+            "91",
+            "92",
+            "99"
+        ],
+        "country_code": "968"
+    },
+    {
+        "country": "oman",
+        "provider": "ooredoo",
+        "prefix": [
+            "93",
+            "94",
+            "95",
+            "96",
+            "97"
+        ],
+        "country_code": "968"
+    },
+    {
+        "country": "pakistan",
+        "provider": "charji",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "92"
+    },
+    {
+        "country": "pakistan",
+        "provider": "instaphone",
+        "prefix": [
+            "3"
+        ],
+        "country_code": "92"
+    },
+    {
+        "country": "pakistan",
+        "provider": "jazz",
+        "prefix": [
+            "3",
+            "30x"
+        ],
+        "country_code": "92"
+    },
+    {
+        "country": "pakistan",
+        "provider": "telenor",
+        "prefix": [
+            "3",
+            "34x"
+        ],
+        "country_code": "92"
+    },
+    {
+        "country": "pakistan",
+        "provider": "ufone",
+        "prefix": [
+            "3",
+            "33x"
+        ],
+        "country_code": "92"
+    },
+    {
+        "country": "pakistan",
+        "provider": "zong",
+        "prefix": [
+            "3",
+            "31x"
+        ],
+        "country_code": "92"
+    },
+    {
+        "country": "palestine",
+        "provider": "jawwal",
+        "prefix": [
+            "59"
+        ],
+        "country_code": "970"
+    },
+    {
+        "country": "palestine",
+        "provider": "wataniya",
+        "prefix": [
+            "56"
+        ],
+        "country_code": "970"
+    },
+    {
+        "country": "panama",
+        "provider": "claro",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "507"
+    },
+    {
+        "country": "panama",
+        "provider": "digicel",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "507"
+    },
+    {
+        "country": "panama",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "507"
+    },
+    {
+        "country": "panama",
+        "provider": "movistar",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "507"
+    },
+    {
+        "country": "papua-new-guinea",
+        "provider": "bmobile",
+        "prefix": [
+            "68",
+            "69"
+        ],
+        "country_code": "675"
+    },
+    {
+        "country": "papua-new-guinea",
+        "provider": "digicel",
+        "prefix": [
+            "68",
+            "69"
+        ],
+        "country_code": "675"
+    },
+    {
+        "country": "papua-new-guinea",
+        "provider": "telikom-png",
+        "prefix": [
+            "68",
+            "69"
+        ],
+        "country_code": "675"
+    },
+    {
+        "country": "paraguay",
+        "provider": "claro",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "595"
+    },
+    {
+        "country": "paraguay",
+        "provider": "copaco",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "595"
+    },
+    {
+        "country": "paraguay",
+        "provider": "personal",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "595"
+    },
+    {
+        "country": "paraguay",
+        "provider": "tigo",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "595"
+    },
+    {
+        "country": "paraguay",
+        "provider": "vox",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "595"
+    },
+    {
+        "country": "peru",
+        "provider": "Bitel",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "51"
+    },
+    {
+        "country": "peru",
+        "provider": "claro",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "51"
+    },
+    {
+        "country": "peru",
+        "provider": "entel",
+        "prefix": [
+            "6"
+        ],
+        "country_code": "51"
+    },
+    {
+        "country": "peru",
+        "provider": "movistar",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "51"
+    },
+    {
+        "country": "philippines",
+        "provider": "globe-telecom",
+        "prefix": [
+            "905",
+            "906",
+            "977",
+            "915",
+            "916",
+            "926",
+            "927",
+            "935",
+            "936",
+            "937",
+            "996",
+            "997",
+            "917"
+        ],
+        "country_code": "63"
+    },
+    {
+        "country": "philippines",
+        "provider": "smart",
+        "prefix": [
+            "920",
+            "930",
+            "938",
+            "939",
+            "907",
+            "908",
+            "909",
+            "910",
+            "912",
+            "919",
+            "921",
+            "928",
+            "929",
+            "947",
+            "948",
+            "948",
+            "989",
+            "918",
+            "999"
+        ],
+        "country_code": "63"
+    },
+    {
+        "country": "philippines",
+        "provider": "sun-cellular",
+        "prefix": [
+            "922",
+            "923",
+            "932",
+            "933",
+            "942",
+            "943"
+        ],
+        "country_code": "63"
+    },
+    {
+        "country": "poland",
+        "provider": "aero2",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "cyfrowy-polsat",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "heyah",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "lycamobile",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "nordisk",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "orange",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "play",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "plus",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "sferia",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "poland",
+        "provider": "t-mobile",
+        "prefix": [
+            "50x",
+            "45x",
+            "51x",
+            "53x",
+            "57x",
+            "60x",
+            "66x",
+            "69x",
+            "72x",
+            "73x",
+            "78x",
+            "79x",
+            "88x"
+        ],
+        "country_code": "48"
+    },
+    {
+        "country": "portugal",
+        "provider": "lycamobile",
+        "prefix": [
+            "91",
+            "921"
+        ],
+        "country_code": "351"
+    },
+    {
+        "country": "portugal",
+        "provider": "meo",
+        "prefix": [
+            "924",
+            "925",
+            "926",
+            "927",
+            "96"
+        ],
+        "country_code": "351"
+    },
+    {
+        "country": "portugal",
+        "provider": "nos",
+        "prefix": [
+            "93"
+        ],
+        "country_code": "351"
+    },
+    {
+        "country": "portugal",
+        "provider": "vodafone",
+        "prefix": [
+            "91",
+            "921"
+        ],
+        "country_code": "351"
+    },
+    {
+        "country": "puerto-rico",
+        "provider": "claro",
+        "prefix": [
+            "787",
+            "939"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "puerto-rico",
+        "provider": "open-mobile",
+        "prefix": [
+            "787",
+            "939"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "qatar",
+        "provider": "ooredoo",
+        "prefix": [
+            "33",
+            "55",
+            "66"
+        ],
+        "country_code": "974"
+    },
+    {
+        "country": "qatar",
+        "provider": "vodafone",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "974"
+    },
+    {
+        "country": "republic-of-congo",
+        "provider": "airtel",
+        "prefix": [
+            "4",
+            "5",
+            "6"
+        ],
+        "country_code": "242"
+    },
+    {
+        "country": "republic-of-congo",
+        "provider": "mtn",
+        "prefix": [
+            "4",
+            "5",
+            "6"
+        ],
+        "country_code": "242"
+    },
+    {
+        "country": "republic-of-congo",
+        "provider": "warid-telecom",
+        "prefix": [
+            "4",
+            "5",
+            "6"
+        ],
+        "country_code": "242"
+    },
+    {
+        "country": "reunion",
+        "provider": "free",
+        "prefix": [
+            "692",
+            "693",
+            "700"
+        ],
+        "country_code": "262"
+    },
+    {
+        "country": "reunion",
+        "provider": "orange",
+        "prefix": [
+            "692",
+            "693",
+            "700"
+        ],
+        "country_code": "262"
+    },
+    {
+        "country": "reunion",
+        "provider": "sfr",
+        "prefix": [
+            "692",
+            "693",
+            "700"
+        ],
+        "country_code": "262"
+    },
+    {
+        "country": "romania",
+        "provider": "digi-mobil",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "40"
+    },
+    {
+        "country": "romania",
+        "provider": "idilis",
+        "prefix": [
+            "70x"
+        ],
+        "country_code": "40"
+    },
+    {
+        "country": "romania",
+        "provider": "lycamobile",
+        "prefix": [
+            "70x"
+        ],
+        "country_code": "40"
+    },
+    {
+        "country": "romania",
+        "provider": "orange",
+        "prefix": [
+            "74",
+            "75"
+        ],
+        "country_code": "40"
+    },
+    {
+        "country": "romania",
+        "provider": "telecom",
+        "prefix": [
+            "76"
+        ],
+        "country_code": "40"
+    },
+    {
+        "country": "romania",
+        "provider": "vodafone",
+        "prefix": [
+            "72",
+            "73"
+        ],
+        "country_code": "40"
+    },
+    {
+        "country": "russia",
+        "provider": "beeline",
+        "prefix": [
+            "903",
+            "905",
+            "906",
+            "909"
+        ],
+        "country_code": "79"
+    },
+    {
+        "country": "russia",
+        "provider": "megafon",
+        "prefix": [
+            "92x",
+            "93x"
+        ],
+        "country_code": "79"
+    },
+    {
+        "country": "russia",
+        "provider": "mts",
+        "prefix": [
+            "91x",
+            "951"
+        ],
+        "country_code": "79"
+    },
+    {
+        "country": "russia",
+        "provider": "skylink",
+        "prefix": [
+            "901"
+        ],
+        "country_code": "79"
+    },
+    {
+        "country": "russia",
+        "provider": "tele2",
+        "prefix": [
+            "902",
+            "904",
+            "908",
+            "950",
+            "952",
+            "953"
+        ],
+        "country_code": "79"
+    },
+    {
+        "country": "rwanda",
+        "provider": "airtel",
+        "prefix": [
+            "73"
+        ],
+        "country_code": "250"
+    },
+    {
+        "country": "rwanda",
+        "provider": "mtn",
+        "prefix": [
+            "78"
+        ],
+        "country_code": "250"
+    },
+    {
+        "country": "rwanda",
+        "provider": "tigo",
+        "prefix": [
+            "72"
+        ],
+        "country_code": "250"
+    },
+    {
+        "country": "saint-kitts-and-nevis",
+        "provider": "digicel",
+        "prefix": [
+            "869"
+        ],
+        "country_code": "1869"
+    },
+    {
+        "country": "saint-kitts-and-nevis",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "869"
+        ],
+        "country_code": "1869"
+    },
+    {
+        "country": "saint-lucia",
+        "provider": "digicel",
+        "prefix": [
+            "758"
+        ],
+        "country_code": "1758"
+    },
+    {
+        "country": "saint-lucia",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "758"
+        ],
+        "country_code": "1758"
+    },
+    {
+        "country": "saint-vincent-and-the-grenadines",
+        "provider": "digicel",
+        "prefix": [
+            "784"
+        ],
+        "country_code": "1784"
+    },
+    {
+        "country": "saint-vincent-and-the-grenadines",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "784"
+        ],
+        "country_code": "1784"
+    },
+    {
+        "country": "samoa",
+        "provider": "bluesky",
+        "prefix": [
+            "75",
+            "76"
+        ],
+        "country_code": "685"
+    },
+    {
+        "country": "samoa",
+        "provider": "digicel",
+        "prefix": [
+            "72",
+            "77"
+        ],
+        "country_code": "685"
+    },
+    {
+        "country": "san-marino",
+        "provider": "smt",
+        "prefix": [
+            "66"
+        ],
+        "country_code": "378"
+    },
+    {
+        "country": "sao-tome-and-principe",
+        "provider": "cst",
+        "prefix": [
+            "90"
+        ],
+        "country_code": "239"
+    },
+    {
+        "country": "sao-tome-and-principe",
+        "provider": "unitel-stp",
+        "prefix": [
+            "90"
+        ],
+        "country_code": "239"
+    },
+    {
+        "country": "saudi-arabia",
+        "provider": "mobily",
+        "prefix": [
+            "54",
+            "56"
+        ],
+        "country_code": "966"
+    },
+    {
+        "country": "saudi-arabia",
+        "provider": "stc",
+        "prefix": [
+            "50",
+            "53",
+            "55"
+        ],
+        "country_code": "966"
+    },
+    {
+        "country": "saudi-arabia",
+        "provider": "virgin-mobile",
+        "prefix": [
+            "50",
+            "53",
+            "55"
+        ],
+        "country_code": "966"
+    },
+    {
+        "country": "saudi-arabia",
+        "provider": "zain",
+        "prefix": [
+            "58",
+            "59"
+        ],
+        "country_code": "966"
+    },
+    {
+        "country": "senegal",
+        "provider": "expresso-telecom",
+        "prefix": [
+            "70"
+        ],
+        "country_code": "221"
+    },
+    {
+        "country": "senegal",
+        "provider": "orange",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "221"
+    },
+    {
+        "country": "senegal",
+        "provider": "tigo",
+        "prefix": [
+            "76"
+        ],
+        "country_code": "221"
+    },
+    {
+        "country": "serbia",
+        "provider": "globaltel",
+        "prefix": [
+            "677"
+        ],
+        "country_code": "381"
+    },
+    {
+        "country": "serbia",
+        "provider": "mts",
+        "prefix": [
+            "64",
+            "65",
+            "66"
+        ],
+        "country_code": "381"
+    },
+    {
+        "country": "serbia",
+        "provider": "orion-telecom",
+        "prefix": [
+            "67x"
+        ],
+        "country_code": "381"
+    },
+    {
+        "country": "serbia",
+        "provider": "telenor",
+        "prefix": [
+            "62",
+            "63",
+            "69"
+        ],
+        "country_code": "381"
+    },
+    {
+        "country": "serbia",
+        "provider": "vip-mobile",
+        "prefix": [
+            "60",
+            "61",
+            "68"
+        ],
+        "country_code": "381"
+    },
+    {
+        "country": "seychelles",
+        "provider": "airtel",
+        "prefix": [
+            "5",
+            "7"
+        ],
+        "country_code": "248"
+    },
+    {
+        "country": "seychelles",
+        "provider": "flow-cable-wireless",
+        "prefix": [
+            "5",
+            "7"
+        ],
+        "country_code": "248"
+    },
+    {
+        "country": "sierra-leone",
+        "provider": "africell",
+        "prefix": [
+            "23",
+            "30",
+            "33",
+            "7x"
+        ],
+        "country_code": "232"
+    },
+    {
+        "country": "sierra-leone",
+        "provider": "orange",
+        "prefix": [
+            "23",
+            "30",
+            "33",
+            "7x"
+        ],
+        "country_code": "232"
+    },
+    {
+        "country": "sierra-leone",
+        "provider": "sierratel",
+        "prefix": [
+            "25",
+            "21"
+        ],
+        "country_code": "232"
+    },
+    {
+        "country": "singapore",
+        "provider": "m1",
+        "prefix": [
+            "8",
+            "9"
+        ],
+        "country_code": "65"
+    },
+    {
+        "country": "singapore",
+        "provider": "singtel",
+        "prefix": [
+            "8",
+            "9"
+        ],
+        "country_code": "65"
+    },
+    {
+        "country": "singapore",
+        "provider": "starhub",
+        "prefix": [
+            "8",
+            "9"
+        ],
+        "country_code": "65"
+    },
+    {
+        "country": "slovakia",
+        "provider": "4ka",
+        "prefix": [
+            "950"
+        ],
+        "country_code": "421"
+    },
+    {
+        "country": "slovakia",
+        "provider": "o2",
+        "prefix": [
+            "940",
+            "944",
+            "948",
+            "949"
+        ],
+        "country_code": "421"
+    },
+    {
+        "country": "slovakia",
+        "provider": "orange",
+        "prefix": [
+            "905",
+            "906",
+            "907",
+            "908",
+            "915",
+            "916",
+            "917",
+            "918"
+        ],
+        "country_code": "421"
+    },
+    {
+        "country": "slovakia",
+        "provider": "t-mobile",
+        "prefix": [
+            "901",
+            "902",
+            "903",
+            "904",
+            "910",
+            "911",
+            "912",
+            "914"
+        ],
+        "country_code": "421"
+    },
+    {
+        "country": "slovenia",
+        "provider": "a1",
+        "prefix": [
+            "30",
+            "40",
+            "68",
+            "69"
+        ],
+        "country_code": "386"
+    },
+    {
+        "country": "slovenia",
+        "provider": "t-2",
+        "prefix": [
+            "64"
+        ],
+        "country_code": "386"
+    },
+    {
+        "country": "slovenia",
+        "provider": "telekom",
+        "prefix": [
+            "31",
+            "41",
+            "51",
+            "65",
+            "71"
+        ],
+        "country_code": "386"
+    },
+    {
+        "country": "slovenia",
+        "provider": "telemach",
+        "prefix": [
+            "70"
+        ],
+        "country_code": "386"
+    },
+    {
+        "country": "solomon-islands",
+        "provider": "bmobile-vodafone",
+        "prefix": [
+            "74",
+            "75"
+        ],
+        "country_code": "677"
+    },
+    {
+        "country": "solomon-islands",
+        "provider": "our-telekom",
+        "prefix": [
+            "74",
+            "75"
+        ],
+        "country_code": "677"
+    },
+    {
+        "country": "somalia",
+        "provider": "golis",
+        "prefix": [
+            "9x",
+            "707"
+        ],
+        "country_code": "252"
+    },
+    {
+        "country": "somalia",
+        "provider": "hormuud",
+        "prefix": [
+            "9x",
+            "707"
+        ],
+        "country_code": "252"
+    },
+    {
+        "country": "somalia",
+        "provider": "nationlink",
+        "prefix": [
+            "9x",
+            "707"
+        ],
+        "country_code": "252"
+    },
+    {
+        "country": "somalia",
+        "provider": "somafone",
+        "prefix": [
+            "9x",
+            "707"
+        ],
+        "country_code": "252"
+    },
+    {
+        "country": "somalia",
+        "provider": "somnet",
+        "prefix": [
+            "9x",
+            "707"
+        ],
+        "country_code": "252"
+    },
+    {
+        "country": "somalia",
+        "provider": "somtel",
+        "prefix": [
+            "9x",
+            "707"
+        ],
+        "country_code": "252"
+    },
+    {
+        "country": "somalia",
+        "provider": "telesom",
+        "prefix": [
+            "9x",
+            "707"
+        ],
+        "country_code": "252"
+    },
+    {
+        "country": "south-africa",
+        "provider": "cell-c",
+        "prefix": [
+            "74",
+            "84"
+        ],
+        "country_code": "27"
+    },
+    {
+        "country": "south-africa",
+        "provider": "mtn",
+        "prefix": [
+            "60",
+            "710",
+            "717",
+            "718",
+            "719",
+            "73",
+            "78",
+            "83"
+        ],
+        "country_code": "27"
+    },
+    {
+        "country": "south-africa",
+        "provider": "telkom",
+        "prefix": [
+            "811",
+            "812",
+            "813",
+            "814"
+        ],
+        "country_code": "27"
+    },
+    {
+        "country": "south-korea",
+        "provider": "kt",
+        "prefix": [
+            "10",
+            "11",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "country_code": "82"
+    },
+    {
+        "country": "south-korea",
+        "provider": "lgu",
+        "prefix": [
+            "10",
+            "11",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "country_code": "82"
+    },
+    {
+        "country": "south-korea",
+        "provider": "sk-telecom",
+        "prefix": [
+            "10",
+            "11",
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "country_code": "82"
+    },
+    {
+        "country": "spain",
+        "provider": "barablu",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "digi-mobil",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "euskaltel",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "lycamobile",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "movistar",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "orange",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "simyo",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "telecable",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "vodafone",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "spain",
+        "provider": "yoigo",
+        "prefix": [
+            "6",
+            "7"
+        ],
+        "country_code": "34"
+    },
+    {
+        "country": "sri-lanka",
+        "provider": "airtel",
+        "prefix": [
+            "75"
+        ],
+        "country_code": "94"
+    },
+    {
+        "country": "sri-lanka",
+        "provider": "dialog",
+        "prefix": [
+            "76",
+            "77"
+        ],
+        "country_code": "94"
+    },
+    {
+        "country": "sri-lanka",
+        "provider": "etisalat",
+        "prefix": [
+            "72"
+        ],
+        "country_code": "94"
+    },
+    {
+        "country": "sri-lanka",
+        "provider": "hutch",
+        "prefix": [
+            "78"
+        ],
+        "country_code": "94"
+    },
+    {
+        "country": "sri-lanka",
+        "provider": "lanka-bell",
+        "prefix": [
+            "70",
+            "75"
+        ],
+        "country_code": "94"
+    },
+    {
+        "country": "sri-lanka",
+        "provider": "mobitel",
+        "prefix": [
+            "70",
+            "71"
+        ],
+        "country_code": "94"
+    },
+    {
+        "country": "sri-lanka",
+        "provider": "slt",
+        "prefix": [
+            "72",
+            "73"
+        ],
+        "country_code": "94"
+    },
+    {
+        "country": "sudan",
+        "provider": "canar-telecom",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "249"
+    },
+    {
+        "country": "sudan",
+        "provider": "mtn",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "249"
+    },
+    {
+        "country": "sudan",
+        "provider": "sudani",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "249"
+    },
+    {
+        "country": "sudan",
+        "provider": "zain",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "249"
+    },
+    {
+        "country": "suriname",
+        "provider": "digicel",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "597"
+    },
+    {
+        "country": "suriname",
+        "provider": "telesur",
+        "prefix": [
+            "8"
+        ],
+        "country_code": "597"
+    },
+    {
+        "country": "swaziland",
+        "provider": "mtn",
+        "prefix": [
+            "7"
+        ],
+        "country_code": "268"
+    },
+    {
+        "country": "sweden",
+        "provider": "3",
+        "prefix": [
+            "7350",
+            "7351",
+            "7352",
+            "7353",
+            "7354"
+        ],
+        "country_code": "46"
+    },
+    {
+        "country": "sweden",
+        "provider": "tele2",
+        "prefix": [
+            "7355",
+            "7356",
+            "7357",
+            "7358",
+            "7359",
+            "736",
+            "737",
+            "739"
+        ],
+        "country_code": "46"
+    },
+    {
+        "country": "sweden",
+        "provider": "telenor",
+        "prefix": [
+            "7320",
+            "7323",
+            "7324",
+            "7325",
+            "7326",
+            "733",
+            "7340",
+            "7341",
+            "7342",
+            "7343",
+            "7344",
+            "7385",
+            ""
+        ],
+        "country_code": "46"
+    },
+    {
+        "country": "sweden",
+        "provider": "telia",
+        "prefix": [
+            "7300",
+            "7302",
+            "7303",
+            "7304",
+            "7305",
+            "7306",
+            "7307",
+            "7308",
+            "7309",
+            "7380",
+            "7381",
+            "7382",
+            "7383",
+            "7384"
+        ],
+        "country_code": "46"
+    },
+    {
+        "country": "switzerland",
+        "provider": "comfone",
+        "prefix": [
+            "74"
+        ],
+        "country_code": "41"
+    },
+    {
+        "country": "switzerland",
+        "provider": "salt-mobile",
+        "prefix": [
+            "78"
+        ],
+        "country_code": "41"
+    },
+    {
+        "country": "switzerland",
+        "provider": "sunrise",
+        "prefix": [
+            "76"
+        ],
+        "country_code": "41"
+    },
+    {
+        "country": "switzerland",
+        "provider": "swisscom",
+        "prefix": [
+            "77",
+            "79"
+        ],
+        "country_code": "41"
+    },
+    {
+        "country": "syria",
+        "provider": "mtn",
+        "prefix": [
+            "94",
+            "95",
+            "96"
+        ],
+        "country_code": "963"
+    },
+    {
+        "country": "syria",
+        "provider": "syriatel",
+        "prefix": [
+            "93",
+            "98",
+            "99"
+        ],
+        "country_code": "963"
+    },
+    {
+        "country": "taiwan",
+        "provider": "aptg",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "886"
+    },
+    {
+        "country": "taiwan",
+        "provider": "chunghwa-telecom",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "886"
+    },
+    {
+        "country": "taiwan",
+        "provider": "fareastone",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "886"
+    },
+    {
+        "country": "taiwan",
+        "provider": "t-star",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "886"
+    },
+    {
+        "country": "taiwan",
+        "provider": "taiwan-mobile",
+        "prefix": [
+            "9"
+        ],
+        "country_code": "886"
+    },
+    {
+        "country": "tajikistan",
+        "provider": "babilon-mobile",
+        "prefix": [
+            "918",
+            "98"
+        ],
+        "country_code": "992"
+    },
+    {
+        "country": "tajikistan",
+        "provider": "beeline",
+        "prefix": [
+            "910",
+            "911",
+            "912",
+            "913",
+            "914",
+            "915",
+            "916",
+            "917",
+            "919"
+        ],
+        "country_code": "992"
+    },
+    {
+        "country": "tajikistan",
+        "provider": "tcell",
+        "prefix": [
+            "92",
+            "93"
+        ],
+        "country_code": "992"
+    },
+    {
+        "country": "tanzania",
+        "provider": "airtel",
+        "prefix": [
+            "68",
+            "69",
+            "78"
+        ],
+        "country_code": "255"
+    },
+    {
+        "country": "tanzania",
+        "provider": "halotel",
+        "prefix": [
+            "62"
+        ],
+        "country_code": "255"
+    },
+    {
+        "country": "tanzania",
+        "provider": "smile",
+        "prefix": [
+            "66"
+        ],
+        "country_code": "255"
+    },
+    {
+        "country": "tanzania",
+        "provider": "tigo",
+        "prefix": [
+            "65",
+            "67",
+            "71"
+        ],
+        "country_code": "255"
+    },
+    {
+        "country": "tanzania",
+        "provider": "ttcl",
+        "prefix": [
+            "73"
+        ],
+        "country_code": "255"
+    },
+    {
+        "country": "tanzania",
+        "provider": "vodacom",
+        "prefix": [
+            "74",
+            "75",
+            "76"
+        ],
+        "country_code": "255"
+    },
+    {
+        "country": "tanzania",
+        "provider": "zantel",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "255"
+    },
+    {
+        "country": "thailand",
+        "provider": "ais",
+        "prefix": [
+            "6",
+            "8",
+            "9"
+        ],
+        "country_code": "66"
+    },
+    {
+        "country": "thailand",
+        "provider": "cat-telecom",
+        "prefix": [
+            "6",
+            "8",
+            "9"
+        ],
+        "country_code": "66"
+    },
+    {
+        "country": "thailand",
+        "provider": "dtac",
+        "prefix": [
+            "6",
+            "8",
+            "9"
+        ],
+        "country_code": "66"
+    },
+    {
+        "country": "thailand",
+        "provider": "tot",
+        "prefix": [
+            "6",
+            "8",
+            "9"
+        ],
+        "country_code": "66"
+    },
+    {
+        "country": "thailand",
+        "provider": "true-move",
+        "prefix": [
+            "6",
+            "8",
+            "9"
+        ],
+        "country_code": "66"
+    },
+    {
+        "country": "togo",
+        "provider": "moov",
+        "prefix": [
+            "97",
+            "98",
+            "99"
+        ],
+        "country_code": "228"
+    },
+    {
+        "country": "togo",
+        "provider": "togocel",
+        "prefix": [
+            "90",
+            "91",
+            "92"
+        ],
+        "country_code": "228"
+    },
+    {
+        "country": "tonga",
+        "provider": "digicel",
+        "prefix": [
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "87",
+            "88",
+            "89"
+        ],
+        "country_code": "676"
+    },
+    {
+        "country": "tonga",
+        "provider": "tcc",
+        "prefix": [
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "87",
+            "88",
+            "89"
+        ],
+        "country_code": "676"
+    },
+    {
+        "country": "trinidad-and-tobago",
+        "provider": "bmobile",
+        "prefix": [
+            "620",
+            "678",
+            "7",
+            "68"
+        ],
+        "country_code": "1868"
+    },
+    {
+        "country": "trinidad-and-tobago",
+        "provider": "digicel",
+        "prefix": [
+            "620",
+            "678",
+            "7",
+            "68"
+        ],
+        "country_code": "1868"
+    },
+    {
+        "country": "tunisia",
+        "provider": "ooredoo",
+        "prefix": [
+            "2"
+        ],
+        "country_code": "216"
+    },
+    {
+        "country": "tunisia",
+        "provider": "orange",
+        "prefix": [
+            "3",
+            "5"
+        ],
+        "country_code": "216"
+    },
+    {
+        "country": "tunisia",
+        "provider": "tunisie-telecom",
+        "prefix": [
+            "4",
+            "9"
+        ],
+        "country_code": "216"
+    },
+    {
+        "country": "turkey",
+        "provider": "turk-telekom",
+        "prefix": [
+            "50",
+            "55"
+        ],
+        "country_code": "90"
+    },
+    {
+        "country": "turkey",
+        "provider": "turkcell",
+        "prefix": [
+            "53"
+        ],
+        "country_code": "90"
+    },
+    {
+        "country": "turkey",
+        "provider": "vodafone",
+        "prefix": [
+            "54"
+        ],
+        "country_code": "90"
+    },
+    {
+        "country": "turkmenistan",
+        "provider": "mts",
+        "prefix": [
+            "66",
+            "67"
+        ],
+        "country_code": "993"
+    },
+    {
+        "country": "turkmenistan",
+        "provider": "tmcell",
+        "prefix": [
+            "65"
+        ],
+        "country_code": "993"
+    },
+    {
+        "country": "uganda",
+        "provider": "africell",
+        "prefix": [
+            "7x"
+        ],
+        "country_code": "256"
+    },
+    {
+        "country": "uganda",
+        "provider": "airtel",
+        "prefix": [
+            "7x"
+        ],
+        "country_code": "256"
+    },
+    {
+        "country": "uganda",
+        "provider": "mtn",
+        "prefix": [
+            "7x"
+        ],
+        "country_code": "256"
+    },
+    {
+        "country": "uganda",
+        "provider": "smile",
+        "prefix": [
+            "7x"
+        ],
+        "country_code": "256"
+    },
+    {
+        "country": "uganda",
+        "provider": "uganda-telecom",
+        "prefix": [
+            "7x"
+        ],
+        "country_code": "256"
+    },
+    {
+        "country": "ukraine",
+        "provider": "cdma",
+        "prefix": [
+            "94"
+        ],
+        "country_code": "380"
+    },
+    {
+        "country": "ukraine",
+        "provider": "kyivstar",
+        "prefix": [
+            "67",
+            "96",
+            "97",
+            "98"
+        ],
+        "country_code": "380"
+    },
+    {
+        "country": "ukraine",
+        "provider": "lifecell",
+        "prefix": [
+            "63",
+            "93"
+        ],
+        "country_code": "380"
+    },
+    {
+        "country": "ukraine",
+        "provider": "mts",
+        "prefix": [
+            "50",
+            "66",
+            "95",
+            "99"
+        ],
+        "country_code": "380"
+    },
+    {
+        "country": "ukraine",
+        "provider": "peoplenet",
+        "prefix": [
+            "92"
+        ],
+        "country_code": "380"
+    },
+    {
+        "country": "ukraine",
+        "provider": "ukrtelecom",
+        "prefix": [
+            "91"
+        ],
+        "country_code": "380"
+    },
+    {
+        "country": "united-arab-emirates",
+        "provider": "du",
+        "prefix": [
+            "52",
+            "55",
+            "58"
+        ],
+        "country_code": "971"
+    },
+    {
+        "country": "united-arab-emirates",
+        "provider": "etisalat",
+        "prefix": [
+            "50",
+            "54",
+            "56"
+        ],
+        "country_code": "971"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "3",
+        "prefix": [
+            "73",
+            "74",
+            "75",
+            "77",
+            "78",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "bt",
+        "prefix": [
+            "75"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "cloud9",
+        "prefix": [
+            "74",
+            "75",
+            "77",
+            "78",
+            "79",
+            ""
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "ee",
+        "prefix": [
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "id-mobile",
+        "prefix": [
+            "73",
+            "74",
+            "75",
+            "77",
+            "78",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "manx-telecom",
+        "prefix": [
+            "74",
+            "76",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "o2",
+        "prefix": [
+            "71",
+            "72",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "orange",
+        "prefix": [
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "sure-mobile",
+        "prefix": [
+            "74",
+            "76",
+            "77",
+            "78"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "t-mobile",
+        "prefix": [
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "virgin-mobile",
+        "prefix": [
+            "73",
+            "74"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-kingdom",
+        "provider": "vodafone",
+        "prefix": [
+            "73",
+            "74",
+            "75",
+            "76",
+            "77",
+            "78",
+            "79"
+        ],
+        "country_code": "44"
+    },
+    {
+        "country": "united-states",
+        "provider": "att",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "bluegrass-cellular",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "boost-mobile",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "c-spire",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "carolina-west-wireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "cellular-one",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "chariton-valley",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "commnet-wireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "cricket-wireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "globalstar",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "indigo-wireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "iwireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "lycamobile",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "metropcs",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "pine-cellular",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "plateau-wireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "sprint",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "straight-talk",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "t-mobile",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "ting",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "tracfone",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "union-telephone",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "us-cellular",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "verizon-wireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "viaero",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "virgin-mobile",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "west-central-wireless",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "united-states",
+        "provider": "westlink-communications",
+        "prefix": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "country_code": "1"
+    },
+    {
+        "country": "uruguay",
+        "provider": "antel",
+        "prefix": [
+            "91",
+            "92",
+            "98",
+            "99"
+        ],
+        "country_code": "598"
+    },
+    {
+        "country": "uruguay",
+        "provider": "claro",
+        "prefix": [
+            "96",
+            "97"
+        ],
+        "country_code": "598"
+    },
+    {
+        "country": "uruguay",
+        "provider": "movistar",
+        "prefix": [
+            "93",
+            "94",
+            "95"
+        ],
+        "country_code": "598"
+    },
+    {
+        "country": "uzbekistan",
+        "provider": "beeline",
+        "prefix": [
+            "90",
+            "91"
+        ],
+        "country_code": "998"
+    },
+    {
+        "country": "uzbekistan",
+        "provider": "perfectum",
+        "prefix": [
+            "98"
+        ],
+        "country_code": "998"
+    },
+    {
+        "country": "uzbekistan",
+        "provider": "ucell",
+        "prefix": [
+            "93",
+            "94"
+        ],
+        "country_code": "998"
+    },
+    {
+        "country": "uzbekistan",
+        "provider": "ums",
+        "prefix": [
+            "97"
+        ],
+        "country_code": "998"
+    },
+    {
+        "country": "uzbekistan",
+        "provider": "uzmobile",
+        "prefix": [
+            "99"
+        ],
+        "country_code": "998"
+    },
+    {
+        "country": "vanuatu",
+        "provider": "digicel",
+        "prefix": [
+            "4",
+            "5"
+        ],
+        "country_code": "678"
+    },
+    {
+        "country": "vanuatu",
+        "provider": "telecom-vanuatu",
+        "prefix": [
+            "4",
+            "5"
+        ],
+        "country_code": "678"
+    },
+    {
+        "country": "vanuatu",
+        "provider": "wantok",
+        "prefix": [
+            "4",
+            "5"
+        ],
+        "country_code": "678"
+    },
+    {
+        "country": "venezuela",
+        "provider": "digitel",
+        "prefix": [
+            "412"
+        ],
+        "country_code": "58"
+    },
+    {
+        "country": "venezuela",
+        "provider": "movilnet",
+        "prefix": [
+            "416",
+            "426"
+        ],
+        "country_code": "58"
+    },
+    {
+        "country": "venezuela",
+        "provider": "movistar",
+        "prefix": [
+            "414",
+            "424"
+        ],
+        "country_code": "58"
+    },
+    {
+        "country": "vietnam",
+        "provider": "gmobile",
+        "prefix": [
+            "3x",
+            "5x",
+            "7x",
+            "8x",
+            "9x"
+        ],
+        "country_code": "84"
+    },
+    {
+        "country": "vietnam",
+        "provider": "mobifone",
+        "prefix": [
+            "3x",
+            "5x",
+            "7x",
+            "8x",
+            "9x"
+        ],
+        "country_code": "84"
+    },
+    {
+        "country": "vietnam",
+        "provider": "vietnamobile",
+        "prefix": [
+            "3x",
+            "5x",
+            "7x",
+            "8x",
+            "9x"
+        ],
+        "country_code": "84"
+    },
+    {
+        "country": "vietnam",
+        "provider": "viettel",
+        "prefix": [
+            "3x",
+            "5x",
+            "7x",
+            "8x",
+            "9x"
+        ],
+        "country_code": "84"
+    },
+    {
+        "country": "vietnam",
+        "provider": "vinaphone",
+        "prefix": [
+            "3x",
+            "5x",
+            "7x",
+            "8x",
+            "9x"
+        ],
+        "country_code": "84"
+    },
+    {
+        "country": "yemen",
+        "provider": "mtn",
+        "prefix": [
+            "73"
+        ],
+        "country_code": "967"
+    },
+    {
+        "country": "yemen",
+        "provider": "sabafon",
+        "prefix": [
+            "71"
+        ],
+        "country_code": "967"
+    },
+    {
+        "country": "yemen",
+        "provider": "yemen-mobile",
+        "prefix": [
+            "77"
+        ],
+        "country_code": "967"
+    },
+    {
+        "country": "zambia",
+        "provider": "airtel",
+        "prefix": [
+            "9x"
+        ],
+        "country_code": "260"
+    },
+    {
+        "country": "zambia",
+        "provider": "mtn",
+        "prefix": [
+            "9x"
+        ],
+        "country_code": "260"
+    },
+    {
+        "country": "zambia",
+        "provider": "zamtel",
+        "prefix": [
+            "9x"
+        ],
+        "country_code": "260"
+    },
+    {
+        "country": "zimbabwe",
+        "provider": "econet",
+        "prefix": [
+            "77",
+            "78"
+        ],
+        "country_code": "263"
+    },
+    {
+        "country": "zimbabwe",
+        "provider": "netone",
+        "prefix": [
+            "71"
+        ],
+        "country_code": "263"
+    },
+    {
+        "country": "zimbabwe",
+        "provider": "telecel",
+        "prefix": [
+            "73"
+        ],
+        "country_code": "263"
+    }
+]
